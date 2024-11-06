@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Downloader {
-    private static final int MAX_RETRIES = 5;
+    private static final int MAX_RETRIES = 10;
     private static final long RETRY_DELAY_MS = 100;
     private static CutrePool connectionPool;
 
@@ -49,16 +49,16 @@ public class Downloader {
         LocalDate today = LocalDate.now();
         LocalDate endDate = today.minusDays(1);
 
-        // Check and fetch data for at least the last 10 years if no data exists
+        // prezemi ako ne postoi ili dodadi
         if (lastUpdateDate == null || !lastUpdateDate.equals(endDate)) {
-            System.out.println("Populating historical data for ticker: " + ticker);
+            System.out.println("Downloading data for: " + ticker);
             LocalDate startDate = (lastUpdateDate != null) ? lastUpdateDate.plusDays(1) : endDate.minus(Period.ofYears(10));
 
             String url = "https://www.mse.mk/en/stats/symbolhistory/" + ticker;
 
             try {
 
-                for (LocalDate date = startDate; date.isBefore(endDate); date = date.plusYears(1)) {
+                for (LocalDate date = startDate; !date.isAfter(endDate); date = date.plusYears(1)) {
                     LocalDate rangeEndDate = date.plusYears(1).isAfter(endDate) ? endDate : date.plusYears(1);
 
                     String fromDate = date.format(DateTimeFormatter.ofPattern("MM/dd/yyyy")).replace("/", "%2F");
@@ -72,22 +72,24 @@ public class Downloader {
                 e.printStackTrace();
             }
         } else {
-            System.out.println("Ticker: " + ticker + " is up to date, skipping");
+            System.out.println("Ticker: " + ticker + " up to date");
         }
     }
 
     private static void sendPostRequest(String urlString, String formPayload, String ticker) throws IOException {
-
         URL url = new URL(urlString);
         HttpURLConnection connection = (HttpURLConnection) url.openConnection();
         connection.setRequestMethod("POST");
         connection.setRequestProperty("Content-Type", "application/x-www-form-urlencoded");
         connection.setDoOutput(true);
+
         // Send form payload
         try (OutputStream os = connection.getOutputStream()) {
             byte[] input = formPayload.getBytes(StandardCharsets.UTF_8);
             os.write(input, 0, input.length);
+            System.out.println("Form payload sent for range: " + formPayload);
         }
+
         // Read the response
         try (InputStream inputStream = connection.getInputStream(); Scanner scanner = new Scanner(inputStream, StandardCharsets.UTF_8)) {
             StringBuilder response = new StringBuilder();
@@ -97,6 +99,7 @@ public class Downloader {
             processResponse(response.toString(), ticker);
         }
     }
+
 
     private static void processResponse(String response, String ticker) {
         // Parse the HTML response to extract the data
@@ -110,14 +113,14 @@ public class Downloader {
 
             // Extract data from each column
             String dateStr = columns.get(0).text();
-            String lastTradePriceStr = columns.get(1).text();
-            String maxPriceStr = columns.get(2).text();
-            String minPriceStr = columns.get(3).text();
-            String avgPriceStr = columns.get(4).text();
-            String percentageChangeStr = columns.get(5).text();
-            String volumeStr = columns.get(6).text();
-            String turnoverBestStr = columns.get(7).text();
-            String totalTurnoverStr = columns.get(8).text();
+            String lastTradePriceStr = columns.get(1).text().replace(",","");
+            String maxPriceStr = columns.get(2).text().replace(",","");
+            String minPriceStr = columns.get(3).text().replace(",","");
+            String avgPriceStr = columns.get(4).text().replace(",","");
+            String percentageChangeStr = columns.get(5).text().replace(",","");
+            String volumeStr = columns.get(6).text().replace(",","");
+            String turnoverBestStr = columns.get(7).text().replace(",","");
+            String totalTurnoverStr = columns.get(8).text().replace(",","");
             // Convert to data
             double lastTradePrice = lastTradePriceStr.isEmpty() ? 0 : Double.parseDouble(lastTradePriceStr);
             double maxPrice = maxPriceStr.isEmpty() ? 0 : Double.parseDouble(maxPriceStr);
@@ -127,10 +130,7 @@ public class Downloader {
             int volume = volumeStr.isEmpty() ? 0 : Integer.parseInt(volumeStr);
             double turnoverBest = turnoverBestStr.isEmpty() ? 0 : Double.parseDouble(turnoverBestStr);
             double totalTurnover = totalTurnoverStr.isEmpty() ? 0 : Double.parseDouble(totalTurnoverStr);
-            System.out.println(dateStr);
-            LocalDate date = LocalDate.parse(dateStr, DateTimeFormatter.ofPattern("MM/d/yyyy"));
-            System.out.println(date);
-            System.out.println("AS" + date.format(DateTimeFormatter.ISO_LOCAL_DATE));
+            LocalDate date = LocalDate.parse(dateStr, DateTimeFormatter.ofPattern("M/d/yyyy"));
             // Save data
             saveHistoricalData(ticker, date, lastTradePrice, maxPrice, minPrice, avgPrice, percentageChange, volume, turnoverBest, totalTurnover);
 
@@ -150,7 +150,7 @@ public class Downloader {
                         "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
                 try (PreparedStatement stmt = connection.prepareStatement(query)) {
                     stmt.setString(1, ticker);
-                    //stmt.setString(2, date);
+                    stmt.setString(2, date.format(DateTimeFormatter.ISO_LOCAL_DATE));
                     stmt.setDouble(3, lastTradePrice);
                     stmt.setDouble(4, maxPrice);
                     stmt.setDouble(5, minPrice);

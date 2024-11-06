@@ -14,6 +14,7 @@ import java.sql.SQLException;
 
 public class TickerScraper {
     public static void processTickers(Connection dbConnection, String url) {
+        int newTickers = 0;
         try {
             Document site = fetchSiteDocument(url);
             Elements content = site.select("tr");
@@ -25,12 +26,14 @@ public class TickerScraper {
                 if (!doesTickerExist(dbConnection, ticker)) {
                     insertTicker(dbConnection, ticker, fullName);
                 } else {
-                    System.out.println("Ticker " + ticker + " exists. Skipping");
+                    newTickers++;
                 }
             }
         } catch (IOException | SQLException e) {
             e.printStackTrace();
         }
+        if(newTickers != 0) System.out.println("Added " + newTickers + " new tickers");
+        else System.out.println("All tickers up to date");
     }
 
     private static Document fetchSiteDocument(String link) throws IOException {
