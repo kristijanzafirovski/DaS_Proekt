@@ -36,7 +36,7 @@ public class Main {
                 long tickersEndTime = System.nanoTime();
                 System.out.println("Time to get tickers: " + (tickersEndTime - tickersStartTime) / 1_000_000 + " ms");
 
-                // Step 2: Download historical data (multithreaded)
+                // Step 2: Download data (multithreaded)
                 List<String> tickers = Downloader.getAllTickers();
                 long downloadStartTime = System.nanoTime();
                 for (String ticker : tickers) {

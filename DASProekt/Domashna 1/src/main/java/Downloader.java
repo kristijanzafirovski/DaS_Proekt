@@ -11,15 +11,16 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.sql.*;
+import java.text.NumberFormat;
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Downloader {
-    private static final int MAX_RETRIES = 10;
     private static final long RETRY_DELAY_MS = 100;
     private static CutrePool connectionPool;
 
@@ -87,7 +88,7 @@ public class Downloader {
         try (OutputStream os = connection.getOutputStream()) {
             byte[] input = formPayload.getBytes(StandardCharsets.UTF_8);
             os.write(input, 0, input.length);
-            System.out.println("Form payload sent for range: " + formPayload);
+            System.out.println("payload range sent: " + formPayload);
         }
 
         // Read the response
@@ -138,10 +139,9 @@ public class Downloader {
     }
 
     private static void saveHistoricalData(String ticker, LocalDate date, double lastTradePrice, double maxPrice, double minPrice, double avgPrice, double percentageChange, int volume, double turnoverBest, double totalTurnover) {
-        int attempts = 0;
         boolean success = false;
 
-        while (!success && attempts < MAX_RETRIES) {
+        while (!success) {
 
             Connection connection = null;
             try {
@@ -151,21 +151,20 @@ public class Downloader {
                 try (PreparedStatement stmt = connection.prepareStatement(query)) {
                     stmt.setString(1, ticker);
                     stmt.setString(2, date.format(DateTimeFormatter.ISO_LOCAL_DATE));
-                    stmt.setDouble(3, lastTradePrice);
-                    stmt.setDouble(4, maxPrice);
-                    stmt.setDouble(5, minPrice);
-                    stmt.setDouble(6, avgPrice);
-                    stmt.setDouble(7, percentageChange);
+                    stmt.setString(3, NumberFormat.getNumberInstance(Locale.US).format(lastTradePrice));
+                    stmt.setString(4, NumberFormat.getNumberInstance(Locale.US).format(maxPrice));
+                    stmt.setString(5, NumberFormat.getNumberInstance(Locale.US).format(minPrice));
+                    stmt.setString(6, NumberFormat.getNumberInstance(Locale.US).format(avgPrice));
+                    stmt.setString(7, NumberFormat.getNumberInstance(Locale.US).format(percentageChange));
                     stmt.setInt(8, volume);
-                    stmt.setDouble(9, turnoverBest);
-                    stmt.setDouble(10, totalTurnover);
+                    stmt.setString(9, NumberFormat.getNumberInstance(Locale.US).format(turnoverBest));
+                    stmt.setString(10, NumberFormat.getNumberInstance(Locale.US).format(totalTurnover));
                     stmt.executeUpdate();
-                    System.out.println("Inserted historical data for: " + ticker + " on " + date);
+                    System.out.println("Inserted data for: " + ticker + " on " + date);
                 }
                 success = true;
             } catch (SQLException e) {
                 if (e.getErrorCode() == SQLiteErrorCode.SQLITE_BUSY.code) {
-                    attempts++;
                     try {
                         Thread.sleep(RETRY_DELAY_MS);
                     } catch (InterruptedException ex) {
