@@ -1,0 +1,78 @@
+{
+  "who_are_we": {
+    "title": "Biz Kimiz?",
+    "p1": "Study Bridge Macedonia, Kuzey Makedonya’nın sunduğu eğitim fırsatlarını dünyadaki öğrencilere tanıtan ve onları bu süreçte profesyonel olarak destekleyen bir öğrenci danışmanlık hizmetidir. Amacımız, öğrencilerin hayal ettikleri akademik geleceğe ulaşmalarını sağlamak, yeni bir ülkede yaşamayı kolaylaştırmak ve bu süreçte onlara rehberlik etmektir.",
+    "p2" : "Makedonya’daki üniversiteler, uluslararası geçerliliğe sahip diplomaları, uygun eğitim ücretleri ve Avrupa’nın kalbinde yer alan konumuyla birçok öğrencinin ilk tercihi olmaktadır. Biz, bu yolculuğunuzda her adımda yanınızdayız!"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "tl1": "Üniversite Kayıt Hizmetleri",
+    "l1": "Makedonya’daki prestijli üniversitelere başvurularınızı organize ediyor, gerekli belgeleri hazırlıyor ve kayıt işlemlerinde size rehberlik ediyoruz. Ayrıca, hangi bölümü seçeceğiniz konusunda kararsızsanız, sizin için en uygun akademik seçenekleri sunuyoruz.",
+    "tl2": "Oturum ve Vize İşlemleri",
+    "l2": "Yeni bir ülkede yaşamak için oturum izni almak zor olabilir, ancak biz süreci sizin için kolaylaştırıyoruz. Gerekli tüm evrak işlerini sizin adınıza takip ediyor ve en kısa sürede oturum izinlerinizi almanızı sağlıyoruz.",
+    "tl3": "Konaklama Ayarlamaları",
+    "l3": "Üsküp ve diğer şehirlerde öğrenci yurtları veya kiralık daire seçeneklerini araştırarak bütçenize ve ihtiyaçlarınıza uygun bir yer bulmanıza yardımcı oluyoruz.",
+    "tl4": "Karşılama ve Uyum Hizmetleri",
+    "l4": "Makedonya’ya ilk geldiğinizde havaalanında karşılama, şehir tanıtımı ve günlük yaşamınızda rehberlik ederek, adaptasyon sürecinizi hızlandırıyoruz.",
+    "tl5": "Dil Eğitimi",
+    "l5": "Üniversite öncesinde veya sırasında Makedonca ve İngilizce dil kurslarıyla iletişim becerilerinizi geliştirmenize destek sağlıyoruz.",
+    "tl6": "Akademik Destek ve Mentorluk",
+    "l6": "Eğitim hayatınız boyunca akademik danışmanlık hizmeti sunarak sınavlara hazırlık, ödev desteği ve kariyer planlama gibi konularda size yardımcı oluyoruz.",
+    "tl7": "Part-Time İş İmkânları ve Sosyal Aktiviteler",
+    "l7": "Makedonya’da eğitim alırken aynı zamanda çalışma fırsatlarından faydalanabilirsiniz. Part-time iş seçenekleri konusunda sizi bilgilendiriyor ve öğrenciler için sosyal etkinlikler organize ediyoruz."
+  },
+  "why_choose_us": {
+    "title": "Neden Bizi Seçmelisiniz?",
+    "t1": "Profesyonel Hizmet",
+    "d1": "Alanında uzman ekibimiz, tüm süreçleri eksiksiz ve sorunsuz bir şekilde yönetir.",
+    "t2":"Kapsamlı Destek",
+    "d2": "İlk başvurunuzdan mezuniyetinize kadar yanınızdayız.",
+    "t3": "Yerel Uzmanlık",
+    "d3": "Makedonya’yı ve üniversitelerini yakından tanıyoruz, ihtiyaçlarınıza en uygun çözümleri sunuyoruz.",
+    "t4": "Uygun Fiyatlar",
+    "d4": "Hizmetlerimiz, öğrencilerin bütçesini yormayacak şekilde planlanmıştır.",
+    "t5": "Makedonya’da Eğitimle Geleceğinizi Şekillendirin!",
+    "d5": "Avrupa’nın kalbinde yer alan Makedonya, yüksek eğitim standartları, düşük yaşam maliyetleri ve zengin kültürel mirasıyla uluslararası öğrenciler için cazip bir destinasyondur. Hayalinizdeki eğitimi almak için ilk adımı atın ve sizin için en uygun programları birlikte keşfedelim!"
+  },
+  "macedonia": {
+    "title": "Makedonya: Avrupa'nın Yükselen Eğitim Merkezi",
+    "p1": "Balkanlar’ın kalbinde yer alan Makedonya, tarihî zenginlikleri, kültürel çeşitliliği ve modern eğitim olanaklarıyla uluslararası öğrenciler için cazip bir destinasyon haline gelmiştir. Hem doğu hem de batı kültürünü harmanlayan bu küçük ülke, son yıllarda yabancı öğrencilerin dikkatini çekiyor.",
+    "p2": "Başkent Üsküp, sadece Makedonya'nın değil, aynı zamanda bölgenin de önemli bir eğitim ve kültür merkezidir. Avrupa’daki birçok üniversiteye kıyasla daha uygun maliyetlerle kaliteli bir eğitim almayı mümkün kılan Makedonya, öğrencilere mavi diploma avantajı sunarak mezuniyet sonrası uluslararası alanda tanınan bir derece sahibi olmalarını sağlıyor.",
+    "t1": "Üsküp: Öğrenciler İçin Bir Cazibe Merkezi",
+    "p3": "Üsküp, modern şehir yaşamını tarihî dokusuyla birleştiren bir metropoldür. Osmanlı, Roma ve Bizans izlerini taşıyan şehirde, her köşe bir hikâye anlatır. Öğrenciler, hem kaliteli eğitim alırken hem de zengin bir kültürel atmosferde yaşam deneyimi kazanır. Ayrıca Üsküp, güvenli bir şehir olması ve öğrenciler için ekonomik yaşam maliyetleri sunmasıyla öne çıkmaktadır.",
+    "p4": "Üsküp’te yaşayan öğrenciler, hem geleneksel hem de modern bir hayat tarzına kolayca adapte olabilir. Canlı sosyal hayatı, uygun konaklama seçenekleri ve geniş ulaşım ağıyla Üsküp, eğitim hayatınızı kolaylaştıracak ideal bir şehir.",
+    "t2": "Makedonya’da Ekonomik Yaşam ve Öğrenci Standartları",
+    "p5": "Makedonya, düşük yaşam maliyetleriyle öğrenciler için cazip bir ülkedir. Aylık kira, ulaşım ve yemek giderleri, diğer Avrupa ülkelerine kıyasla çok daha ekonomiktir. Ayrıca, part-time çalışma olanakları sayesinde öğrenciler, eğitim hayatlarını sürdürürken çalışma imkânı bulabilir.",
+    "p6": "Yerel halkın misafirperverliği ve çok kültürlü yapısı, yabancı öğrencilerin hızlı bir şekilde adapte olmasına olanak tanır. Tüm bu faktörler, Makedonya’yı uluslararası öğrenciler için yaşanabilir bir eğitim üssü hâline getirmektedir."
+  },
+  "uni": {
+    "title": "Makedonya'daki Üniversiteler",
+    "u1t": "Ss. Cyril and Methodius University (Makedonca Eğitim)",
+    "u1d": "Makedonya’nın en köklü üniversitelerinden biri olan Ss. Cyril and Methodius University, geniş bir fakülte yelpazesiyle dikkat çeker. Tıp (3.000 Euro), Diş Hekimliği (3.500 Euro), Eczacılık (1.500 Euro), Yazılım Mühendisliği (2.000 Euro), Hukuk (2.000 Euro) gibi çeşitli bölümlerde eğitim sunmaktadır.",
+    "u1d2": "Eğitim dili Makedonca olan bu üniversite, öğrencilere hazırlık sınıfı olanağı da sunarak dil becerilerini geliştirmelerine yardımcı olur. Üniversitenin sunduğu mavi diploma avantajı sayesinde mezunlar, uluslararası alanda tanınan bir dereceye sahip olur.",
+    "u2t": "Ss. Cyril and Methodius University (İngilizce Eğitim)",
+    "u2d":"İngilizce dilinde eğitim almak isteyen öğrenciler için Ss. Cyril and Methodius University, cazip bir seçenektir. Tıp (5.000 Euro), Diş Hekimliği (5.000 Euro), Veteriner Hekimliği (3.000 Euro) gibi bölümlerle öne çıkan üniversite, uluslararası standartlarda eğitim vermektedir.",
+    "u2d2": "Sınavsız ve puansız kayıt avantajı sunan bu programlar, öğrencilere eğitim hayatlarını kolayca başlatma imkânı sunar. Ayrıca, öğrenciler için part-time çalışma imkânları, hem eğitim hem de sosyal hayatı dengeli bir şekilde sürdürmelerine olanak tanır.",
+    "u3t": "University of Tourism and Management of Skopje",
+    "u3d": "Üsküp Turizm ve Yönetim Üniversitesi, öğrencilerine yenilikçi bir öğrenim ortamı sunar. Bilgi Teknolojileri, Ekonomi, Turizm, İnsan Kaynakları ve Uluslararası Pazarlama Yönetimi gibi birçok alanda lisans programları sunmaktadır. Yıllık öğrenim ücreti ise sadece 3.000 Euro’dur.",
+    "u3d2": "Bu üniversite, teorik bilgiyi uygulamayla birleştirerek öğrencilerin mesleki gelişimlerini desteklemeyi amaçlar. Uluslararası standartlarda verdiği eğitim sayesinde mezunlar, küresel iş dünyasında güçlü bir konuma sahip olur. Ayrıca öğrenciler, kampüs içerisinde düzenlenen etkinlikler ve atölyelerle kariyer hedeflerine daha hızlı ulaşabilir."
+  },
+  "contact": {
+    "title": "İlgileniyor musunuz?",
+    "formTitle": "Bize e-posta ile ulaşın",
+    "formName": "İsim",
+    "formNamePlaceholder": "Adınız",
+    "formMsg": "Mesajınız",
+    "social": "Bize sosyal medya üzerinden ulaşın"
+  },
+  "navigation": {
+    "who_are_we": "Biz kimiz",
+    "our_services": "Hizmetlerimiz",
+    "why_choose_us": "Neden bizi seçmelisiniz",
+    "education_in_macedonia": "Makedonya'da Eğitim",
+    "universities": "Üniversiteler",
+    "get_in_contact": "Bizimle iletişime geçin"
+  }
+}
+
+

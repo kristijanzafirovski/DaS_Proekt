@@ -1,0 +1,76 @@
+{
+  "who_are_we": {
+    "title": "Who are we?",
+    "p1": "Study Bridge Macedonia is a student consultancy service that introduces students from all over the world to the educational opportunities offered by North Macedonia and supports them professionally in this process. Our aim is to help students achieve their dream academic future, make life in a new country easier and guide them in this process.",
+    "p2": "Universities in Macedonia are the first choice of many students with their internationally recognized diplomas, affordable tuition fees and location in the heart of Europe. We are with you every step of the way!"
+  },
+  "services": {
+    "title": "Our services",
+    "tl1": "University Registration Services",
+    "l1": "We organize your applications to prestigious universities in Macedonia, prepare the necessary documents and guide you through the registration process. We also offer the most suitable academic options for you if you are undecided about which department to choose.",
+    "tl2": "Residence and Visa Procedures",
+    "l2": "Obtaining a residence permit to live in a new country can be difficult, but we make the process easy for you. We follow all the necessary paperwork on your behalf and ensure that you receive your residence permit as soon as possible.",
+    "tl3": "Accommodation Arrangements",
+    "l3": "We help you find a place that suits your budget and needs by researching student dormitories or rental apartments in Skopje and other cities.",
+    "tl4": "Welcoming and Integration Services",
+    "l4": "When you first arrive in Macedonia, we accelerate your adaptation process by welcoming you at the airport, introducing the city and guiding you in your daily life.",
+    "tl5": "Language Education",
+    "l5": "We support you in developing your communication skills with Macedonian and English language courses before or during university.",
+    "tl6": "Academic Support and Mentoring",
+    "l6": "We provide academic consultancy services throughout your education life, helping you with exam preparation, homework support and career planning.",
+    "tl7": "Part-Time Job Opportunities and Social Activities",
+    "l7": "You can benefit from work opportunities while studying in Macedonia. We inform you about part-time job options and organize social events for students."
+  },
+  "why_choose_us": {
+    "title": "Why Choose Us?",
+    "t1": "Professional Service",
+    "d1": "Our expert team manages all processes completely and smoothly.",
+    "t2":"Comprehensive Support",
+    "d2": "We are with you from your first application to graduation",
+    "t3": "Local Expertise",
+    "d3": "We know Macedonia and its universities closely and offer the most suitable solutions for your needs.",
+    "t4": "Affordable Prices",
+    "d4": "Our services are planned in a way that will not strain students' budgets.",
+    "t5":"Shape Your Future with Education in Macedonia!",
+    "d5": "Located in the heart of Europe, Macedonia is an attractive destination for international students with its high education standards, low living costs and rich cultural heritage. Take the first step to get the education of your dreams and let's discover the most suitable programs for you together!"
+  },
+  "macedonia": {
+    "title": "Macedonia: Europe's Rising Education Center",
+    "p1": "Located in the heart of the Balkans, Macedonia has become an attractive destination for international students with its historical riches, cultural diversity and modern education opportunities. This small country, which blends both Eastern and Western cultures, has been attracting the attention of foreign students in recent years.",
+    "p2": "The capital city, Skopje, is an important educational and cultural center not only for Macedonia but also for the region. Macedonia, which offers quality education at more affordable costs compared to many universities in Europe, offers students the advantage of a blue diploma, allowing them to receive an internationally recognized degree after graduation.",
+    "t1": "Skopje: A Center of Attraction for Students",
+    "p3": "Skopje is a metropolis that combines modern city life with its historical texture. In the city that bears traces of the Ottoman, Roman and Byzantine Empires, every corner tells a story. Students gain both quality education and a rich cultural atmosphere while gaining life experience. In addition, Skopje stands out as a safe city and offers affordable living costs for students.",
+    "p4": "Students living in Skopje can easily adapt to both a traditional and modern lifestyle. With its vibrant social life, affordable accommodation options and wide transportation network, Skopje is an ideal city that will make your education life easier.",
+    "t2": "Economic Life and Student Standards in Macedonia",
+    "p5": "Macedonia is an attractive country for students with its low living costs. Monthly rent, transportation and food expenses are much more affordable compared to other European countries. In addition, thanks to part-time work opportunities, students can find the opportunity to work while continuing their education.",
+    "p6": "The hospitality and multicultural structure of the local people allow foreign students to adapt quickly. All these factors make Macedonia a livable educational base for international students."
+  },
+  "uni": {
+    "title": "Universities in Macedonia",
+    "u1t": "\nSs. Cyril and Methodius University (Macedonian Education)\n",
+    "u1d": "One of the most established universities in Macedonia, Ss. Cyril and Methodius University stands out with its wide range of faculties. It offers education in various departments such as Medicine (3,000 Euro), Dentistry (3,500 Euro), Pharmacy (1,500 Euro), Software Engineering (2,000 Euro), Law (2,000 Euro).",
+    "u1d2": "\nThis university, whose language of instruction is Macedonian, also offers students the opportunity of a preparatory class to help them improve their language skills. Thanks to the blue diploma advantage offered by the university, graduates receive an internationally recognized degree.\n",
+    "u2t": "Ss. Cyril and Methodius University (English Education)",
+    "u2d": "Ss. Cyril and Methodius University is an attractive option for students who want to study in English. The university, which stands out with departments such as Medicine (5,000 Euro), Dentistry (5,000 Euro), Veterinary Medicine (3,000 Euro), provides education at international standards.",
+    "u2d2": "These programs, which offer the advantage of exam-free and score-free registration, offer students the opportunity to easily start their education. In addition, part-time work opportunities for students allow them to maintain both their education and social life in a balanced way.",
+    "u3t": "University Tourism and Management of Skopje",
+    "u3d": "Skopje University of Tourism and Management offers its students an innovative learning environment. It offers undergraduate programs in many fields such as Information Technologies, Economics, Tourism, Human Resources and International Marketing Management. The annual tuition fee is only 3,000 Euros.",
+    "u3d2": "This university aims to support students' professional development by combining theoretical knowledge with practice. Thanks to the education it provides at international standards, graduates have a strong position in the global business world. In addition, students can reach their career goals faster with events and workshops organized on campus."
+  },
+  "contact": {
+    "title" : "Are you interested?",
+    "formTitle" : "Contact us on e-mail",
+    "formName": "Name",
+    "formNamePlaceholder" : "Your Name",
+    "formMsg": "Your message",
+    "social" : "Contact us on our social media"
+  },
+  "navigation": {
+    "who_are_we": "Who are we",
+    "our_services": "Our services",
+    "why_choose_us": "Why choose us",
+    "education_in_macedonia": "Education in Macedonia",
+    "universities": "Universities",
+    "get_in_contact": "Get in contact with us"
+  }
+}
