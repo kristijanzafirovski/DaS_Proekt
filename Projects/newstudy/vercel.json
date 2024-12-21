@@ -1,0 +1,19 @@
+{
+
+  "version": 1,
+
+  "name": "StudyBridge",
+
+  "builds": [
+
+    { "src": "/i18n/index.js", "use": "@vercel/node" }
+
+  ],
+
+  "routes": [
+
+    { "src": "/(.*)", "dest": "/index.js" }
+
+  ]
+
+}
