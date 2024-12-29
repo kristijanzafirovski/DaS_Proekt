@@ -1,0 +1,1912 @@
+/DASProekt/.idea/.gitignore
+/DASProekt/.idea/compiler.xml
+/DASProekt/.idea/dataSources.xml
+/DASProekt/.idea/encodings.xml
+/DASProekt/.idea/jarRepositories.xml
+/DASProekt/.idea/misc.xml
+/DASProekt/.idea/sqlDataSources.xml
+/DASProekt/.idea/sqldialects.xml
+/DASProekt/.idea/uiDesigner.xml
+/DASProekt/.idea/vcs.xml
+/ispit diskretna juni/ispit/ispit-del1.jpg
+/ispit diskretna juni/ispit/ispit-del2.jpg
+/ispit diskretna juni/ispit/ispit-del3.jpg
+/ispit diskretna juni/ispit/ispit-del4.jpg
+/ispit diskretna juni/ispit/ispit-del5.jpg
+/ispit diskretna juni/ispit/objasnuvanje.txt
+/ispit diskretna juni/Screenshot 2022-06-28 130731.png
+/ispit diskretna juni/Screenshot 2022-06-28 130759.png
+/ispit diskretna juni/Screenshot 2022-06-28 130823.png
+/ispit diskretna juni/Screenshot 2022-06-28 130834.png
+/ispit diskretna juni/Screenshot 2022-06-28 130853.png
+/ispit diskretna juni/Screenshot 2022-06-28 130906.png
+/ispit diskretna juni/Screenshot 2022-06-28 130919.png
+/ispit diskretna juni/Screenshot 2022-06-28 130935.png
+/ispit diskretna juni/Screenshot 2022-06-28 130951.png
+/ispit diskretna juni/Screenshot 2022-06-28 131004.png
+/ispit diskretna juni/Screenshot 2022-06-28 131042.png
+/ispit diskretna juni/Screenshot 2022-06-28 131054.png
+/ispit diskretna juni/Screenshot 2022-06-28 131109.png
+/ispit diskretna juni/Screenshot 2022-06-28 131129.png
+/ispit diskretna juni/Screenshot 2022-06-28 131139.png
+/IT/221287/.idea/221287.iml
+/IT/221287/.idea/compiler.xml
+/IT/221287/.idea/encodings.xml
+/IT/221287/.idea/jarRepositories.xml
+/IT/221287/.idea/misc.xml
+/IT/221287/.idea/modules.xml
+/IT/221287/.idea/uiDesigner.xml
+/IT/221287/.idea/vcs.xml
+/IT/221287/.idea/workspace.xml
+/IT/221287/zad1/htdocs/date.cgi
+/IT/221287/zad1/htdocs/Datum.java
+/IT/221287/zad1/htdocs/hangman.cgi
+/IT/221287/zad1/htdocs/Hangman.class
+/IT/221287/zad1/htdocs/Hangman.java
+/IT/221287/zad1/htdocs/index.html
+/IT/221287/zad1/Dockerfile
+/IT/221287/zad1/httpd.conf
+/IT/221287/zad2/src/main/java/com/example/zad2/components/Layout.java
+/IT/221287/zad2/src/main/java/com/example/zad2/pages/DatePage.java
+/IT/221287/zad2/src/main/java/com/example/zad2/pages/HangmanPage.java
+/IT/221287/zad2/src/main/java/com/example/zad2/pages/Index.java
+/IT/221287/zad2/src/main/java/com/example/zad2/services/Datum.java
+/IT/221287/zad2/src/main/java/com/example/zad2/services/Hangman.java
+/IT/221287/zad2/src/main/resources/com/example/zad2/components/Layout.tml
+/IT/221287/zad2/src/main/resources/com/example/zad2/pages/DatePage.tml
+/IT/221287/zad2/src/main/resources/com/example/zad2/pages/HangmanPage.tml
+/IT/221287/zad2/src/main/resources/com/example/zad2/pages/Index.tml
+/IT/221287/zad2/src/main/webapp/WEB-INF/app.properties
+/IT/221287/zad2/src/main/webapp/WEB-INF/web.xml
+/IT/221287/zad2/src/main/webapp/favicon.ico
+/IT/221287/zad2/target/classes/com/example/zad2/components/Layout.class
+/IT/221287/zad2/target/classes/com/example/zad2/components/Layout.tml
+/IT/221287/zad2/target/classes/com/example/zad2/pages/DatePage.class
+/IT/221287/zad2/target/classes/com/example/zad2/pages/DatePage.tml
+/IT/221287/zad2/target/classes/com/example/zad2/pages/HangmanPage.class
+/IT/221287/zad2/target/classes/com/example/zad2/pages/HangmanPage.tml
+/IT/221287/zad2/target/classes/com/example/zad2/pages/Index.class
+/IT/221287/zad2/target/classes/com/example/zad2/pages/Index.tml
+/IT/221287/zad2/target/classes/com/example/zad2/services/Datum.class
+/IT/221287/zad2/target/classes/Hangman.class
+/IT/221287/zad2/target/maven-archiver/pom.properties
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/components/Layout.class
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/components/Layout.tml
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/pages/DatePage.class
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/pages/DatePage.tml
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/pages/HangmanPage.class
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/pages/HangmanPage.tml
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/pages/Index.class
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/pages/Index.tml
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/com/example/zad2/services/Datum.class
+/IT/221287/zad2/target/ROOT/WEB-INF/classes/Hangman.class
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/animal-sniffer-annotations-1.14.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/antlr-3.5.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/antlr-runtime-3.5.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/args4j-2.0.26.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/async-http-client-2.12.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/async-http-client-netty-utils-2.12.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/auto-common-1.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/auto-service-1.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/auto-service-annotations-1.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/base-1.0.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/beanmodel-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/byte-buddy-1.12.14.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/checker-qual-2.0.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/closure-compiler-externs-v20200504.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/closure-compiler-unshaded-v20200504.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-beanutils-1.8.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-codec-1.10.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-exec-1.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-io-2.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-lang3-3.4.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/commons-logging-1.1.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/elemental2-core-1.0.0-RC1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/error_prone_annotations-2.3.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/failsafe-3.2.4.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/FastInfoset-1.2.16.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/gmbal-4.0.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/graphql-java-19.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/gson-2.7.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/guava-25.1-jre.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/ha-api-3.1.12.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/hamcrest-core-1.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/istack-commons-runtime-3.0.8.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/j2objc-annotations-1.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.activation-1.2.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.activation-api-1.2.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.annotation-api-1.3.4.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.jws-api-1.1.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.xml.soap-api-1.4.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jakarta.xml.ws-api-2.3.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/java-dataloader-3.2.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/javax.activation-api-1.2.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/javax.annotation-api-1.3.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/javax.inject-1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/javax.xml.soap-api-1.4.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jaxb-api-2.3.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jaxb-runtime-2.3.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jaxws-api-2.3.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jaxws-rt-2.3.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jcommander-1.82.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jeromq-0.5.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jnacl-1.0.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jsinterop-annotations-1.0.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/json-20090211.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jsr305-3.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/jtoml-2.0.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/junit-4.13.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/less4j-1.12.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/management-api-3.2.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/mimepull-1.9.11.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-buffer-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-codec-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-codec-http-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-codec-socks-4.1.60.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-common-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-handler-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-handler-proxy-4.1.60.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-reactive-streams-2.0.4.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-resolver-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-classes-epoll-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-classes-kqueue-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-native-epoll-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-native-kqueue-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/netty-transport-native-unix-common-4.1.79.Final.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-api-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-context-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-exporter-common-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-exporter-logging-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-common-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-extension-autoconfigure-1.17.0-alpha.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-logs-1.17.0-alpha.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-metrics-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-sdk-trace-1.17.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/opentelemetry-semconv-1.17.0-alpha.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/pfl-asm-4.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/pfl-basic-4.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/pfl-basic-tools-4.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/pfl-dynamic-4.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/pfl-tf-4.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/pfl-tf-tools-4.0.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/plastic-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/policy-2.7.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/protobuf-java-3.11.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/re2j-1.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/reactive-streams-1.0.3.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/rhino-1.7.7.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/saaj-impl-1.5.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-api-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-chrome-driver-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-chromium-driver-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v85-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v104-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v105-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v106-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v114-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v115-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-devtools-v116-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-edge-driver-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-firefox-driver-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-grid-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-http-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-ie-driver-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-java-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-json-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-leg-rc-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-manager-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-os-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-remote-driver-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-safari-driver-4.5.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/selenium-support-4.12.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/servlet-api-2.5.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/slf4j-api-1.7.25.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/ST4-4.0.8.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/stax2-api-4.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/stax-ex-1.8.1.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/streambuffer-1.5.7.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry5-annotations-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry-core-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry-func-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry-http-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry-ioc-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry-json-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/tapestry-webresources-5.8.6.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/txw2-2.3.2.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/lib/woodstox-core-5.1.0.jar
+/IT/221287/zad2/target/ROOT/WEB-INF/app.properties
+/IT/221287/zad2/target/ROOT/WEB-INF/web.xml
+/IT/221287/zad2/target/ROOT/favicon.ico
+/IT/221287/zad2/pom.xml
+/IT/221287/zad2/zad2.iml
+/IT/221287/zad3/obj/Debug/net8.0/ref/WebApp.dll
+/IT/221287/zad3/obj/Debug/net8.0/refint/WebApp.dll
+/IT/221287/zad3/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/IT/221287/zad3/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/IT/221287/zad3/obj/Debug/net8.0/scopedcss/projectbundle/WebApp.bundle.scp.css
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/IT/221287/zad3/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/IT/221287/zad3/obj/Debug/net8.0/apphost.exe
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets.build.json
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets.development.json
+/IT/221287/zad3/obj/Debug/net8.0/staticwebassets.pack.json
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.assets.cache
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.csproj.FileListAbsolute.txt
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.dll
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.GlobalUsings.g.cs
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.pdb
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/IT/221287/zad3/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/IT/221287/zad3/obj/Release/net8.0/ref/WebApp.dll
+/IT/221287/zad3/obj/Release/net8.0/refint/WebApp.dll
+/IT/221287/zad3/obj/Release/net8.0/scopedcss/bundle/WebApp.styles.css
+/IT/221287/zad3/obj/Release/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/IT/221287/zad3/obj/Release/net8.0/scopedcss/projectbundle/WebApp.bundle.scp.css
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets/msbuild.build.WebApp.props
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/IT/221287/zad3/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/IT/221287/zad3/obj/Release/net8.0/apphost.exe
+/IT/221287/zad3/obj/Release/net8.0/PublishOutputs.b4736319d8.txt
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets.build.json
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets.development.json
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets.pack.json
+/IT/221287/zad3/obj/Release/net8.0/staticwebassets.publish.json
+/IT/221287/zad3/obj/Release/net8.0/WebApp.AssemblyInfo.cs
+/IT/221287/zad3/obj/Release/net8.0/WebApp.AssemblyInfoInputs.cache
+/IT/221287/zad3/obj/Release/net8.0/WebApp.assets.cache
+/IT/221287/zad3/obj/Release/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/IT/221287/zad3/obj/Release/net8.0/WebApp.csproj.FileListAbsolute.txt
+/IT/221287/zad3/obj/Release/net8.0/WebApp.dll
+/IT/221287/zad3/obj/Release/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/IT/221287/zad3/obj/Release/net8.0/WebApp.genruntimeconfig.cache
+/IT/221287/zad3/obj/Release/net8.0/WebApp.GlobalUsings.g.cs
+/IT/221287/zad3/obj/Release/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/IT/221287/zad3/obj/Release/net8.0/WebApp.pdb
+/IT/221287/zad3/obj/Release/net8.0/WebApp.RazorAssemblyInfo.cache
+/IT/221287/zad3/obj/Release/net8.0/WebApp.RazorAssemblyInfo.cs
+/IT/221287/zad3/obj/project.assets.json
+/IT/221287/zad3/obj/project.nuget.cache
+/IT/221287/zad3/obj/WebApp.csproj.nuget.dgspec.json
+/IT/221287/zad3/obj/WebApp.csproj.nuget.g.props
+/IT/221287/zad3/obj/WebApp.csproj.nuget.g.targets
+/IT/221287/zad3/Pages/Shared/_Layout.cshtml
+/IT/221287/zad3/Pages/Shared/_Layout.cshtml.css
+/IT/221287/zad3/Pages/Shared/_ValidationScriptsPartial.cshtml
+/IT/221287/zad3/Pages/_ViewImports.cshtml
+/IT/221287/zad3/Pages/_ViewStart.cshtml
+/IT/221287/zad3/Pages/Date.cshtml
+/IT/221287/zad3/Pages/Date.cshtml.cs
+/IT/221287/zad3/Pages/Error.cshtml
+/IT/221287/zad3/Pages/Error.cshtml.cs
+/IT/221287/zad3/Pages/Hangman.cshtml
+/IT/221287/zad3/Pages/Hangman.cshtml.cs
+/IT/221287/zad3/Pages/Index.cshtml
+/IT/221287/zad3/Pages/Index.cshtml.cs
+/IT/221287/zad3/Pages/Privacy.cshtml
+/IT/221287/zad3/Pages/Privacy.cshtml.cs
+/IT/221287/zad3/Properties/launchSettings.json
+/IT/221287/zad3/Dockerfile
+/IT/221287/zad3/Program.cs
+/IT/221287/zad3/WebApp.csproj
+/IT/Dockers/ContainerZadacha00/htdocs/test.txt
+/IT/Dockers/ContainerZadacha00/Dockerfile
+/IT/WebApp/.vs/ProjectEvaluation/webapp.metadata.v7.bin
+/IT/WebApp/.vs/ProjectEvaluation/webapp.projects.v7.bin
+/IT/WebApp/.vs/WebApp/config/applicationhost.config
+/IT/WebApp/.vs/WebApp/DesignTimeBuild/.dtbcache.v2
+/IT/WebApp/.vs/WebApp/FileContentIndex/1f6a86ec-3d37-4bc9-98e6-84823dc53bd3.vsidx
+/IT/WebApp/.vs/WebApp/FileContentIndex/2ac7cba0-8a33-453f-b5d4-4c404eb7721c.vsidx
+/IT/WebApp/.vs/WebApp/FileContentIndex/82c8d936-704c-45ef-aedc-b00c0a999355.vsidx
+/IT/WebApp/.vs/WebApp/FileContentIndex/b4ac35f6-a9a1-4f9b-b84e-225ce9e6962b.vsidx
+/IT/WebApp/.vs/WebApp/FileContentIndex/ff93af26-3c04-4d07-b61b-ee921965c619.vsidx
+/IT/WebApp/.vs/WebApp/v17/.futdcache.v2
+/IT/WebApp/.vs/WebApp/v17/.suo
+/IT/WebApp/Controllers/DateController.cs
+/IT/WebApp/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/IT/WebApp/obj/Debug/net8.0/project.razor.vs.bin
+/IT/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/IT/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/IT/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/IT/WebApp/obj/Debug/net8.0/WebApp.GlobalUsings.g.cs
+/IT/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/IT/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/IT/WebApp/Pages/Shared/_Layout.cshtml
+/IT/WebApp/Pages/Shared/_Layout.cshtml.css
+/IT/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml
+/IT/WebApp/Pages/_ViewImports.cshtml
+/IT/WebApp/Pages/_ViewStart.cshtml
+/IT/WebApp/Pages/Date.cshtml
+/IT/WebApp/Pages/Date.cshtml.cs
+/IT/WebApp/Pages/Error.cshtml
+/IT/WebApp/Pages/Error.cshtml.cs
+/IT/WebApp/Pages/Hangman.cshtml
+/IT/WebApp/Pages/Hangman.cshtml.cs
+/IT/WebApp/Pages/Index.cshtml
+/IT/WebApp/Pages/Index.cshtml.cs
+/IT/WebApp/Pages/Privacy.cshtml
+/IT/WebApp/Pages/Privacy.cshtml.cs
+/IT/WebApp/Properties/launchSettings.json
+/IT/WebApp/wwwroot/css/site.css
+/IT/WebApp/wwwroot/js/site.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css
+/IT/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js
+/IT/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map
+/IT/WebApp/wwwroot/lib/bootstrap/LICENSE
+/IT/WebApp/wwwroot/lib/jquery/dist/jquery.js
+/IT/WebApp/wwwroot/lib/jquery/dist/jquery.min.js
+/IT/WebApp/wwwroot/lib/jquery/dist/jquery.min.map
+/IT/WebApp/wwwroot/lib/jquery/LICENSE.txt
+/IT/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.js
+/IT/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js
+/IT/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js
+/IT/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js
+/IT/WebApp/wwwroot/lib/jquery-validation/LICENSE.md
+/IT/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js
+/IT/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js
+/IT/WebApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt
+/IT/WebApp/wwwroot/favicon.ico
+/IT/WebApp/appsettings.Development.json
+/IT/WebApp/appsettings.json
+/IT/WebApp/Program.cs
+/IT/WebApp/Startup.cs
+/IT/WebApp/WebApp.csproj
+/IT/WebApp/WebApp.csproj.user
+/IT/WebApp/WebApp.sln
+/KMiB- Izreseni zadaci/1.jpg
+/KMiB- Izreseni zadaci/2.jpg
+/KMiB- Izreseni zadaci/3.jpg
+/KMiB- Izreseni zadaci/4.jpg
+/KMiB- Izreseni zadaci/5.jpg
+/KMiB- Izreseni zadaci/6.jpg
+/KMiB- Izreseni zadaci/7.jpg
+/KMiB- Izreseni zadaci/8.jpg
+/KMiB- Izreseni zadaci/9.jpg
+/KMiB- Izreseni zadaci/10.jpg
+/KMiB- Izreseni zadaci/11.jpg
+/KMiB- Izreseni zadaci/13.jpg
+/KMiB- Izreseni zadaci/14.jpg
+/KMiB- Izreseni zadaci/15.jpg
+/KMiB- Izreseni zadaci/16.jpg
+/KMiB- Izreseni zadaci/17.jpg
+/KMiB- Izreseni zadaci/18.jpg
+/KMiB- Izreseni zadaci/Izreseni zadaci so objasnuvanja.pdf
+/Projects/CPP/Idk/.vs/Idk/v16/.suo
+/Projects/CPP/Idk/.vs/Idk/v16/Browse.VC.db
+/Projects/CPP/Idk/Idk/Debug/Idk.tlog/CL.command.1.tlog
+/Projects/CPP/Idk/Idk/Debug/Idk.tlog/Idk.lastbuildstate
+/Projects/CPP/Idk/Idk/Debug/Idk.tlog/unsuccessfulbuild
+/Projects/CPP/Idk/Idk/Debug/Idk.log
+/Projects/CPP/Idk/Idk/Debug/vc142.idb
+/Projects/CPP/Idk/Idk/Debug/vc142.pdb
+/Projects/CPP/Idk/Idk/Idk.cpp
+/Projects/CPP/Idk/Idk/Idk.vcxproj
+/Projects/CPP/Idk/Idk/Idk.vcxproj.filters
+/Projects/CPP/Idk/Idk/Idk.vcxproj.user
+/Projects/CPP/Idk/Idk.sln
+/Projects/GlobeGuru/
+/Projects/HTML/5th/.idea/.gitignore
+/Projects/HTML/5th/.idea/5th.iml
+/Projects/HTML/5th/.idea/misc.xml
+/Projects/HTML/5th/.idea/modules.xml
+/Projects/HTML/5th/css/style.css
+/Projects/HTML/5th/fonts/Poppins-Bold.ttf
+/Projects/HTML/5th/fonts/Poppins-Light.ttf
+/Projects/HTML/5th/fonts/Poppins-Medium.ttf
+/Projects/HTML/5th/fonts/Poppins-Regular.ttf
+/Projects/HTML/5th/fonts/Poppins-SemiBold.ttf
+/Projects/HTML/5th/images/icons/Button.png
+/Projects/HTML/5th/images/icons/contact.png
+/Projects/HTML/5th/images/icons/Dots.png
+/Projects/HTML/5th/images/icons/fb.png
+/Projects/HTML/5th/images/icons/gallery.png
+/Projects/HTML/5th/images/icons/home.png
+/Projects/HTML/5th/images/icons/insta.png
+/Projects/HTML/5th/images/logo/fb.png
+/Projects/HTML/5th/images/logo/logo.png
+/Projects/HTML/5th/images/logo/logo_text.png
+/Projects/HTML/5th/images/logo/mail.png
+/Projects/HTML/5th/images/logo/phone.png
+/Projects/HTML/5th/images/rolo/67402000_2385474281664995_7068548981235646464_n_2385474278331662.jpg
+/Projects/HTML/5th/images/rolo/67484016_2385474371664986_416504389105090560_n_2385474364998320.jpg
+/Projects/HTML/5th/images/rolo/67521335_2385476501664773_706102330088488960_n_2385476498331440.jpg
+/Projects/HTML/5th/images/rolo/67605365_2385473764998380_6893529776888217600_n_2385473758331714.jpg
+/Projects/HTML/5th/images/rolo/67609304_2385474378331652_4876428536992235520_n_2385474368331653.jpg
+/Projects/HTML/5th/images/rolo/67611864_2385474224998334_6428812125027696640_n_2385474221665001.jpg
+/Projects/HTML/5th/images/rolo/67632665_2385476551664768_7945496125287432192_n_2385476544998102.jpg
+/Projects/HTML/5th/images/rolo/67636507_2385475334998223_7313301278895898624_n_2385475328331557.jpg
+/Projects/HTML/5th/images/rolo/67690318_2385468028332287_7498265454247411712_n_2385468021665621.jpg
+/Projects/HTML/5th/images/rolo/67703548_2385474601664963_6750106538108518400_n_2385474594998297.jpg
+/Projects/HTML/5th/images/rolo/67754597_2385474074998349_5229907171541516288_n_2385474068331683.jpg
+/Projects/HTML/5th/images/rolo/67770187_2385475201664903_6443780043104583680_n_2385475191664904.jpg
+/Projects/HTML/5th/images/rolo/67887866_2385476671664756_4668172418987065344_n_2385476664998090.jpg
+/Projects/HTML/5th/images/rolo/68419958_2385476571664766_5968952734013980672_n_2385476568331433.jpg
+/Projects/HTML/5th/images/sitecontent/BckgColors/p56.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/02.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/03.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/04.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/05.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/07.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/08.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/09.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/10.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/11.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/12.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/13.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/14.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/15.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/16.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/17.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/18.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/19.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/20.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/21.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/22.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/24.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/25.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/26.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/27.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/28.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/29.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/31.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/33.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/34.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/35.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/36.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/37.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/38.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/40.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/45.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/48.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/50.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/51.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/53.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/56.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/57.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/63.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/64.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/73.jpg
+/Projects/HTML/5th/images/sitecontent/Colors/74.jpg
+/Projects/HTML/5th/images/sitecontent/1.jpg
+/Projects/HTML/5th/images/sitecontent/back.png
+/Projects/HTML/5th/images/sitecontent/backdrop.png
+/Projects/HTML/5th/images/sitecontent/c1.jpg
+/Projects/HTML/5th/images/sitecontent/closeup.jpg
+/Projects/HTML/5th/images/sitecontent/dueto.png
+/Projects/HTML/5th/images/sitecontent/LL_2022_Vertical_Carnival_BO_Shadow_Dine_MAIL_gallery.jpg
+/Projects/HTML/5th/images/sitecontent/minjon.png
+/Projects/HTML/5th/images/sitecontent/r1.jpg
+/Projects/HTML/5th/images/sitecontent/The Amazing Array Of Modern Curtain Designs  1600x900.jpg
+/Projects/HTML/5th/images/sitecontent/v1.jpg
+/Projects/HTML/5th/images/sitecontent/var1.jpg
+/Projects/HTML/5th/images/sitecontent/window.png
+/Projects/HTML/5th/images/sitecontent/windowblind.png
+/Projects/HTML/5th/images/variolajt/67396663_2385474538331636_156841081684623360_n_2385474528331637.jpg
+/Projects/HTML/5th/images/variolajt/67438119_2385475264998230_4852686258427658240_n_2385475261664897.jpg
+/Projects/HTML/5th/images/variolajt/67621631_2385476748331415_427012048069591040_n_2385476738331416.jpg
+/Projects/HTML/5th/images/variolajt/67747160_2385474668331623_6423177213834690560_n_2385474658331624.jpg
+/Projects/HTML/5th/images/variolajt/67786929_2385474454998311_7150805000887730176_n_2385474451664978.jpg
+/Projects/HTML/5th/images/venecijaner/67381648_2385474841664939_541172317451976704_n_2385474838331606.jpg
+/Projects/HTML/5th/images/venecijaner/67402498_2385467791665644_3577819001515933696_n_2385467788332311.jpg
+/Projects/HTML/5th/images/venecijaner/67402802_2385474988331591_7987984368435986432_n_2385474984998258.jpg
+/Projects/HTML/5th/images/venecijaner/67456110_2385475011664922_3069101728990232576_n_2385474994998257.jpg
+/Projects/HTML/5th/images/venecijaner/67472568_2385476088331481_5974357267456196608_n_2385476084998148.jpg
+/Projects/HTML/5th/images/venecijaner/67521131_2385476654998091_2185880939094081536_n_2385476651664758.jpg
+/Projects/HTML/5th/images/venecijaner/67526165_2385475128331577_3512162399102697472_n_2385475121664911.jpg
+/Projects/HTML/5th/images/venecijaner/67531021_2385473418331748_4678947534155022336_n_2385473411665082.jpg
+/Projects/HTML/5th/images/venecijaner/67551511_2385474158331674_8805155136914587648_n_2385474141665009.jpg
+/Projects/HTML/5th/images/venecijaner/67694916_2385473588331731_1432046455601758208_n_2385473581665065.jpg
+/Projects/HTML/5th/images/venecijaner/67695175_2385475791664844_156435649656782848_n_2385475784998178.jpg
+/Projects/HTML/5th/images/venecijaner/67703779_2385474618331628_8199076461936640000_n_2385474614998295.jpg
+/Projects/HTML/5th/images/venecijaner/67734018_2385467848332305_972088490793631744_n_2385467844998972.jpg
+/Projects/HTML/5th/images/venecijaner/67899962_2385468018332288_2783807525626052608_n_2385468014998955.jpg
+/Projects/HTML/5th/images/venecijaner/67977195_2385476581664765_1435520435604160512_n_2385476578331432.jpg
+/Projects/HTML/5th/images/venecijaner/68284946_2385467971665626_1187740070036111360_n_2385467964998960.jpg
+/Projects/HTML/5th/images/venecijaner/68316443_2385474864998270_2523538829680312320_n_2385474858331604.jpg
+/Projects/HTML/5th/images/venecijaner/68410950_2385476161664807_505559140123279360_n_2385476158331474.jpg
+/Projects/HTML/5th/images/zavesi/1.jpg
+/Projects/HTML/5th/images/zavesi/2.jpg
+/Projects/HTML/5th/images/zavesi/3.jpg
+/Projects/HTML/5th/images/zavesi/67380771_2385473594998397_3008963403638112256_n_2385473584998398.jpg
+/Projects/HTML/5th/images/zavesi/67394456_2385475444998212_7891802093420281856_n_2385475431664880.jpg
+/Projects/HTML/5th/images/zavesi/67397383_2385474194998337_7820842413282295808_n_2385474184998338.jpg
+/Projects/HTML/5th/images/zavesi/67400188_2385476291664794_3727735986034049024_n_2385476281664795.jpg
+/Projects/HTML/5th/images/zavesi/67401585_2385476294998127_513398756813570048_n_2385476284998128.jpg
+/Projects/HTML/5th/images/zavesi/67404675_2385475488331541_8257911672736317440_n_2385475484998208.jpg
+/Projects/HTML/5th/images/zavesi/67416509_2385475894998167_8345095471575859200_n_2385475888331501.jpg
+/Projects/HTML/5th/images/zavesi/67426544_2385476151664808_4369351576901386240_n_2385476148331475.jpg
+/Projects/HTML/5th/images/zavesi/67427521_2385476511664772_7531763514801651712_n_2385476508331439.jpg
+/Projects/HTML/5th/images/zavesi/67436515_2385474771664946_7228103704862261248_n_2385474768331613.jpg
+/Projects/HTML/5th/images/zavesi/67439488_2385476238331466_6676174195140853760_n_2385476231664800.jpg
+/Projects/HTML/5th/images/zavesi/67443941_2385473804998376_6950550922351083520_n_2385473798331710.jpg
+/Projects/HTML/5th/images/zavesi/67450602_2385475314998225_5538613069837500416_n_2385475311664892.jpg
+/Projects/HTML/5th/images/zavesi/67450608_2385473488331741_7633402142039998464_n_2385473481665075.jpg
+/Projects/HTML/5th/images/zavesi/67455827_2385476204998136_8480498468815634432_n_2385476201664803.jpg
+/Projects/HTML/5th/images/zavesi/67456574_2385473821665041_2325341748420673536_n_2385473818331708.jpg
+/Projects/HTML/5th/images/zavesi/67460906_2385475654998191_5382114735133032448_n_2385475651664858.jpg
+/Projects/HTML/5th/images/zavesi/67462624_2385473941665029_7759146011234140160_n_2385473931665030.jpg
+/Projects/HTML/5th/images/zavesi/67471974_2385475771664846_48834216242184192_n_2385475764998180.jpg
+/Projects/HTML/5th/images/zavesi/67471986_2385475194998237_3107808786010603520_n_2385475188331571.jpg
+/Projects/HTML/5th/images/zavesi/67483360_2385474114998345_8205485463675338752_n_2385474108331679.jpg
+/Projects/HTML/5th/images/zavesi/67488061_2385467828332307_6840242581503213568_n_2385467824998974.jpg
+/Projects/HTML/5th/images/zavesi/67489424_2385473958331694_210559891218104320_n_2385473934998363.jpg
+/Projects/HTML/5th/images/zavesi/67491805_2385474251664998_7187158128067084288_n_2385474248331665.jpg
+/Projects/HTML/5th/images/zavesi/67502986_2385474298331660_7548273905958387712_n_2385474294998327.jpg
+/Projects/HTML/5th/images/zavesi/67502987_2385473404998416_1204448781307740160_n_2385473401665083.jpg
+/Projects/HTML/5th/images/zavesi/67518605_2385475028331587_5324962318289731584_n_2385475021664921.jpg
+/Projects/HTML/5th/images/zavesi/67520586_2385473681665055_3244430475925651456_n_2385473674998389.jpg
+/Projects/HTML/5th/images/zavesi/67523394_2385474781664945_4034779770641186816_n_2385474778331612.jpg
+/Projects/HTML/5th/images/zavesi/67546744_2385475144998242_1459451327657541632_n_2385475141664909.jpg
+/Projects/HTML/5th/images/zavesi/67552901_2385473501665073_8880857517509312512_n_2385473498331740.jpg
+/Projects/HTML/5th/images/zavesi/67563798_2385473728331717_6836025984475463680_n_2385473724998384.jpg
+/Projects/HTML/5th/images/zavesi/67572995_2385476398331450_98999202331230208_n_2385476394998117.jpg
+/Projects/HTML/5th/images/zavesi/67574922_2385475118331578_7934201563889795072_n_2385475111664912.jpg
+/Projects/HTML/5th/images/zavesi/67601168_2385467918332298_4712247235939663872_n_2385467914998965.jpg
+/Projects/HTML/5th/images/zavesi/67611161_2385475411664882_8511417693566402560_n_2385475404998216.jpg
+/Projects/HTML/5th/images/zavesi/67621068_2385474854998271_2249916058209091584_n_2385474848331605.jpg
+/Projects/HTML/5th/images/zavesi/67621105_2385476368331453_5946483445101232128_n_2385476361664787.jpg
+/Projects/HTML/5th/images/zavesi/67624350_2385474928331597_4832467626867294208_n_2385474914998265.jpg
+/Projects/HTML/5th/images/zavesi/67633225_2385474724998284_3606545465073467392_n_2385474714998285.jpg
+/Projects/HTML/5th/images/zavesi/67634435_2385474438331646_6535714805917941760_n_2385474428331647.jpg
+/Projects/HTML/5th/images/zavesi/67637872_2385467731665650_8780304464729866240_n_2385467728332317.jpg
+/Projects/HTML/5th/images/zavesi/67643133_2385476481664775_7952836434849693696_n_2385476474998109.jpg
+/Projects/HTML/5th/images/zavesi/67647694_2385475961664827_7567877609871114240_n_2385475948331495.jpg
+/Projects/HTML/5th/images/zavesi/67657225_2385473641665059_2799106933573812224_n_2385473631665060.jpg
+/Projects/HTML/5th/images/zavesi/67670293_2385475988331491_1292865145566920704_n_2385475981664825.jpg
+/Projects/HTML/5th/images/zavesi/67675624_2385475741664849_7176914497922138112_n_2385475734998183.jpg
+/Projects/HTML/5th/images/zavesi/67698535_2385476248331465_4376188993037926400_n_2385476244998132.jpg
+/Projects/HTML/5th/images/zavesi/67706788_2385476691664754_7658514854474416128_n_2385476684998088.jpg
+/Projects/HTML/5th/images/zavesi/67729122_2385476008331489_6874292648434204672_n_2385476004998156.jpg
+/Projects/HTML/5th/images/zavesi/67735424_2385474944998262_7963319183003877376_n_2385474938331596.jpg
+/Projects/HTML/5th/images/zavesi/67736256_2385473568331733_8341011687821803520_n_2385473561665067.jpg
+/Projects/HTML/5th/images/zavesi/67736970_2385473754998381_8464623792948248576_n_2385473748331715.jpg
+/Projects/HTML/5th/images/zavesi/67738191_2385467724998984_3327413582001340416_n_2385467721665651.jpg
+/Projects/HTML/5th/images/zavesi/67752009_2385475281664895_2066265339691270144_n_2385475274998229.jpg
+/Projects/HTML/5th/images/zavesi/67753130_2385475594998197_296214935103340544_n_2385475588331531.jpg
+/Projects/HTML/5th/images/zavesi/67757652_2385474064998350_1906358853948145664_n_2385474048331685.jpg
+/Projects/HTML/5th/images/zavesi/67789035_2385475531664870_1920846564616568832_n_2385475528331537.jpg
+/Projects/HTML/5th/images/zavesi/67798742_2385476034998153_7729550796051709952_n_2385476028331487.jpg
+/Projects/HTML/5th/images/zavesi/67815303_2385474508331639_2259676878195392512_n_2385474504998306.jpg
+/Projects/HTML/5th/images/zavesi/67820360_2385476428331447_4859152533555249152_n_2385476424998114.jpg
+/Projects/HTML/5th/images/zavesi/67830295_2385474444998312_8833721806213873664_n_2385474431664980.jpg
+/Projects/HTML/5th/images/zavesi/67837299_2385475668331523_2529732254125522944_n_2385475661664857.jpg
+/Projects/HTML/5th/images/zavesi/67843213_2385467818332308_1246205479856635904_n_2385467814998975.jpg
+/Projects/HTML/5th/images/zavesi/67846063_2385474531664970_6445380648566784000_n_2385474524998304.jpg
+/Projects/HTML/5th/images/zavesi/67849013_2385473521665071_491327529764782080_n_2385473518331738.jpg
+/Projects/HTML/5th/images/zavesi/67871106_2385475814998175_4501379691919179776_n_2385475811664842.jpg
+/Projects/HTML/5th/images/zavesi/67872059_2385475088331581_8816629850715455488_n_2385475081664915.jpg
+/Projects/HTML/5th/images/zavesi/67877080_2385474344998322_2451677532827680768_n_2385474341664989.jpg
+/Projects/HTML/5th/images/zavesi/67877766_2385474808331609_2070434623359287296_n_2385474791664944.jpg
+/Projects/HTML/5th/images/zavesi/67895938_2385475428331547_1283224661974319104_n_2385475421664881.jpg
+/Projects/HTML/5th/images/zavesi/67909809_2385475914998165_4061967733963620352_n_2385475901664833.jpg
+/Projects/HTML/5th/images/zavesi/67916581_2385467898332300_1630229161605857280_n_2385467894998967.jpg
+/Projects/HTML/5th/images/zavesi/67970852_2385473888331701_6237946286654357504_n_2385473881665035.jpg
+/Projects/HTML/5th/images/zavesi/67972877_2385474151665008_7496889016013291520_n_2385474138331676.jpg
+/Projects/HTML/5th/images/zavesi/68274434_2385467924998964_5296360765266067456_n_2385467921665631.jpg
+/Projects/HTML/5th/images/zavesi/68288005_2385475688331521_4819911058049204224_n_2385475684998188.jpg
+/Projects/HTML/5th/images/zavesi/68379257_2385474001665023_4092307988532953088_n_2385473998331690.jpg
+/Projects/HTML/5th/images/zavesi/68523663_2385476128331477_2849056299419697152_n_2385476121664811.jpg
+/Projects/HTML/5th/images/zavesi/68531481_2385475928331497_1236245506531786752_n_2385475921664831.jpg
+/Projects/HTML/5th/images/zavesi/68543591_2385474671664956_3533525201360781312_n_2385474661664957.jpg
+/Projects/HTML/5th/images/zavesi/68549568_2385476074998149_5409957642313400320_n_2385476064998150.jpg
+/Projects/HTML/5th/images/zavesi/68662331_2385475854998171_6773762427700903936_n_2385475851664838.jpg
+/Projects/HTML/5th/images/zebri/67324475_2385473834998373_6036491824888020992_n_2385473831665040.jpg
+/Projects/HTML/5th/images/zebri/67392063_2385474038331686_7725374451457458176_n_2385474034998353.jpg
+/Projects/HTML/5th/images/zebri/67399011_2385475578331532_1966912369493803008_n_2385475571664866.jpg
+/Projects/HTML/5th/images/zebri/67424612_2385473424998414_6466768752477208576_n_2385473421665081.jpg
+/Projects/HTML/5th/images/zebri/67476989_2385474581664965_5794326897131257856_n_2385474578331632.jpg
+/Projects/HTML/5th/images/zebri/67574927_2385476618331428_111179270021185536_n_2385476614998095.jpg
+/Projects/HTML/5th/images/zebri/67726128_2385475514998205_1144866164594180096_n_2385475501664873.jpg
+/Projects/HTML/5th/images/zebri/68274436_2385475361664887_2703613588492255232_n_2385475354998221.jpg
+/Projects/HTML/5th/images/zebri/68443586_2385474934998263_2159489563356037120_n_2385474921664931.jpg
+/Projects/HTML/5th/images/zebri/68569922_2385475604998196_7861889312650952704_n_2385475598331530.jpg
+/Projects/HTML/5th/js/gallery.js
+/Projects/HTML/5th/js/js.js
+/Projects/HTML/5th/index.html
+/Projects/HTML/5th Ave/css/functions.css
+/Projects/HTML/5th Ave/css/gallery.css
+/Projects/HTML/5th Ave/css/main.css
+/Projects/HTML/5th Ave/img/logo/fb.png
+/Projects/HTML/5th Ave/img/logo/logo.png
+/Projects/HTML/5th Ave/img/logo/mail.png
+/Projects/HTML/5th Ave/img/logo/phone.png
+/Projects/HTML/5th Ave/img/rolo/67402000_2385474281664995_7068548981235646464_n_2385474278331662.jpg
+/Projects/HTML/5th Ave/img/rolo/67484016_2385474371664986_416504389105090560_n_2385474364998320.jpg
+/Projects/HTML/5th Ave/img/rolo/67521335_2385476501664773_706102330088488960_n_2385476498331440.jpg
+/Projects/HTML/5th Ave/img/rolo/67605365_2385473764998380_6893529776888217600_n_2385473758331714.jpg
+/Projects/HTML/5th Ave/img/rolo/67609304_2385474378331652_4876428536992235520_n_2385474368331653.jpg
+/Projects/HTML/5th Ave/img/rolo/67611864_2385474224998334_6428812125027696640_n_2385474221665001.jpg
+/Projects/HTML/5th Ave/img/rolo/67632665_2385476551664768_7945496125287432192_n_2385476544998102.jpg
+/Projects/HTML/5th Ave/img/rolo/67636507_2385475334998223_7313301278895898624_n_2385475328331557.jpg
+/Projects/HTML/5th Ave/img/rolo/67690318_2385468028332287_7498265454247411712_n_2385468021665621.jpg
+/Projects/HTML/5th Ave/img/rolo/67703548_2385474601664963_6750106538108518400_n_2385474594998297.jpg
+/Projects/HTML/5th Ave/img/rolo/67754597_2385474074998349_5229907171541516288_n_2385474068331683.jpg
+/Projects/HTML/5th Ave/img/rolo/67770187_2385475201664903_6443780043104583680_n_2385475191664904.jpg
+/Projects/HTML/5th Ave/img/rolo/67887866_2385476671664756_4668172418987065344_n_2385476664998090.jpg
+/Projects/HTML/5th Ave/img/rolo/68419958_2385476571664766_5968952734013980672_n_2385476568331433.jpg
+/Projects/HTML/5th Ave/img/variolajt/67396663_2385474538331636_156841081684623360_n_2385474528331637.jpg
+/Projects/HTML/5th Ave/img/variolajt/67438119_2385475264998230_4852686258427658240_n_2385475261664897.jpg
+/Projects/HTML/5th Ave/img/variolajt/67621631_2385476748331415_427012048069591040_n_2385476738331416.jpg
+/Projects/HTML/5th Ave/img/variolajt/67747160_2385474668331623_6423177213834690560_n_2385474658331624.jpg
+/Projects/HTML/5th Ave/img/variolajt/67786929_2385474454998311_7150805000887730176_n_2385474451664978.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67381648_2385474841664939_541172317451976704_n_2385474838331606.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67402498_2385467791665644_3577819001515933696_n_2385467788332311.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67402802_2385474988331591_7987984368435986432_n_2385474984998258.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67456110_2385475011664922_3069101728990232576_n_2385474994998257.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67472568_2385476088331481_5974357267456196608_n_2385476084998148.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67521131_2385476654998091_2185880939094081536_n_2385476651664758.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67526165_2385475128331577_3512162399102697472_n_2385475121664911.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67531021_2385473418331748_4678947534155022336_n_2385473411665082.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67551511_2385474158331674_8805155136914587648_n_2385474141665009.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67694916_2385473588331731_1432046455601758208_n_2385473581665065.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67695175_2385475791664844_156435649656782848_n_2385475784998178.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67703779_2385474618331628_8199076461936640000_n_2385474614998295.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67734018_2385467848332305_972088490793631744_n_2385467844998972.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67899962_2385468018332288_2783807525626052608_n_2385468014998955.jpg
+/Projects/HTML/5th Ave/img/venecijaner/67977195_2385476581664765_1435520435604160512_n_2385476578331432.jpg
+/Projects/HTML/5th Ave/img/venecijaner/68284946_2385467971665626_1187740070036111360_n_2385467964998960.jpg
+/Projects/HTML/5th Ave/img/venecijaner/68316443_2385474864998270_2523538829680312320_n_2385474858331604.jpg
+/Projects/HTML/5th Ave/img/venecijaner/68410950_2385476161664807_505559140123279360_n_2385476158331474.jpg
+/Projects/HTML/5th Ave/img/zavesi/1.jpg
+/Projects/HTML/5th Ave/img/zavesi/2.jpg
+/Projects/HTML/5th Ave/img/zavesi/3.jpg
+/Projects/HTML/5th Ave/img/zavesi/67380771_2385473594998397_3008963403638112256_n_2385473584998398.jpg
+/Projects/HTML/5th Ave/img/zavesi/67394456_2385475444998212_7891802093420281856_n_2385475431664880.jpg
+/Projects/HTML/5th Ave/img/zavesi/67397383_2385474194998337_7820842413282295808_n_2385474184998338.jpg
+/Projects/HTML/5th Ave/img/zavesi/67400188_2385476291664794_3727735986034049024_n_2385476281664795.jpg
+/Projects/HTML/5th Ave/img/zavesi/67401585_2385476294998127_513398756813570048_n_2385476284998128.jpg
+/Projects/HTML/5th Ave/img/zavesi/67404675_2385475488331541_8257911672736317440_n_2385475484998208.jpg
+/Projects/HTML/5th Ave/img/zavesi/67416509_2385475894998167_8345095471575859200_n_2385475888331501.jpg
+/Projects/HTML/5th Ave/img/zavesi/67426544_2385476151664808_4369351576901386240_n_2385476148331475.jpg
+/Projects/HTML/5th Ave/img/zavesi/67427521_2385476511664772_7531763514801651712_n_2385476508331439.jpg
+/Projects/HTML/5th Ave/img/zavesi/67436515_2385474771664946_7228103704862261248_n_2385474768331613.jpg
+/Projects/HTML/5th Ave/img/zavesi/67439488_2385476238331466_6676174195140853760_n_2385476231664800.jpg
+/Projects/HTML/5th Ave/img/zavesi/67443941_2385473804998376_6950550922351083520_n_2385473798331710.jpg
+/Projects/HTML/5th Ave/img/zavesi/67450602_2385475314998225_5538613069837500416_n_2385475311664892.jpg
+/Projects/HTML/5th Ave/img/zavesi/67450608_2385473488331741_7633402142039998464_n_2385473481665075.jpg
+/Projects/HTML/5th Ave/img/zavesi/67455827_2385476204998136_8480498468815634432_n_2385476201664803.jpg
+/Projects/HTML/5th Ave/img/zavesi/67456574_2385473821665041_2325341748420673536_n_2385473818331708.jpg
+/Projects/HTML/5th Ave/img/zavesi/67460906_2385475654998191_5382114735133032448_n_2385475651664858.jpg
+/Projects/HTML/5th Ave/img/zavesi/67462624_2385473941665029_7759146011234140160_n_2385473931665030.jpg
+/Projects/HTML/5th Ave/img/zavesi/67471974_2385475771664846_48834216242184192_n_2385475764998180.jpg
+/Projects/HTML/5th Ave/img/zavesi/67471986_2385475194998237_3107808786010603520_n_2385475188331571.jpg
+/Projects/HTML/5th Ave/img/zavesi/67483360_2385474114998345_8205485463675338752_n_2385474108331679.jpg
+/Projects/HTML/5th Ave/img/zavesi/67488061_2385467828332307_6840242581503213568_n_2385467824998974.jpg
+/Projects/HTML/5th Ave/img/zavesi/67489424_2385473958331694_210559891218104320_n_2385473934998363.jpg
+/Projects/HTML/5th Ave/img/zavesi/67491805_2385474251664998_7187158128067084288_n_2385474248331665.jpg
+/Projects/HTML/5th Ave/img/zavesi/67502986_2385474298331660_7548273905958387712_n_2385474294998327.jpg
+/Projects/HTML/5th Ave/img/zavesi/67502987_2385473404998416_1204448781307740160_n_2385473401665083.jpg
+/Projects/HTML/5th Ave/img/zavesi/67518605_2385475028331587_5324962318289731584_n_2385475021664921.jpg
+/Projects/HTML/5th Ave/img/zavesi/67520586_2385473681665055_3244430475925651456_n_2385473674998389.jpg
+/Projects/HTML/5th Ave/img/zavesi/67523394_2385474781664945_4034779770641186816_n_2385474778331612.jpg
+/Projects/HTML/5th Ave/img/zavesi/67546744_2385475144998242_1459451327657541632_n_2385475141664909.jpg
+/Projects/HTML/5th Ave/img/zavesi/67552901_2385473501665073_8880857517509312512_n_2385473498331740.jpg
+/Projects/HTML/5th Ave/img/zavesi/67563798_2385473728331717_6836025984475463680_n_2385473724998384.jpg
+/Projects/HTML/5th Ave/img/zavesi/67572995_2385476398331450_98999202331230208_n_2385476394998117.jpg
+/Projects/HTML/5th Ave/img/zavesi/67574922_2385475118331578_7934201563889795072_n_2385475111664912.jpg
+/Projects/HTML/5th Ave/img/zavesi/67601168_2385467918332298_4712247235939663872_n_2385467914998965.jpg
+/Projects/HTML/5th Ave/img/zavesi/67611161_2385475411664882_8511417693566402560_n_2385475404998216.jpg
+/Projects/HTML/5th Ave/img/zavesi/67621068_2385474854998271_2249916058209091584_n_2385474848331605.jpg
+/Projects/HTML/5th Ave/img/zavesi/67621105_2385476368331453_5946483445101232128_n_2385476361664787.jpg
+/Projects/HTML/5th Ave/img/zavesi/67624350_2385474928331597_4832467626867294208_n_2385474914998265.jpg
+/Projects/HTML/5th Ave/img/zavesi/67633225_2385474724998284_3606545465073467392_n_2385474714998285.jpg
+/Projects/HTML/5th Ave/img/zavesi/67634435_2385474438331646_6535714805917941760_n_2385474428331647.jpg
+/Projects/HTML/5th Ave/img/zavesi/67637872_2385467731665650_8780304464729866240_n_2385467728332317.jpg
+/Projects/HTML/5th Ave/img/zavesi/67643133_2385476481664775_7952836434849693696_n_2385476474998109.jpg
+/Projects/HTML/5th Ave/img/zavesi/67647694_2385475961664827_7567877609871114240_n_2385475948331495.jpg
+/Projects/HTML/5th Ave/img/zavesi/67657225_2385473641665059_2799106933573812224_n_2385473631665060.jpg
+/Projects/HTML/5th Ave/img/zavesi/67670293_2385475988331491_1292865145566920704_n_2385475981664825.jpg
+/Projects/HTML/5th Ave/img/zavesi/67675624_2385475741664849_7176914497922138112_n_2385475734998183.jpg
+/Projects/HTML/5th Ave/img/zavesi/67698535_2385476248331465_4376188993037926400_n_2385476244998132.jpg
+/Projects/HTML/5th Ave/img/zavesi/67706788_2385476691664754_7658514854474416128_n_2385476684998088.jpg
+/Projects/HTML/5th Ave/img/zavesi/67729122_2385476008331489_6874292648434204672_n_2385476004998156.jpg
+/Projects/HTML/5th Ave/img/zavesi/67735424_2385474944998262_7963319183003877376_n_2385474938331596.jpg
+/Projects/HTML/5th Ave/img/zavesi/67736256_2385473568331733_8341011687821803520_n_2385473561665067.jpg
+/Projects/HTML/5th Ave/img/zavesi/67736970_2385473754998381_8464623792948248576_n_2385473748331715.jpg
+/Projects/HTML/5th Ave/img/zavesi/67738191_2385467724998984_3327413582001340416_n_2385467721665651.jpg
+/Projects/HTML/5th Ave/img/zavesi/67752009_2385475281664895_2066265339691270144_n_2385475274998229.jpg
+/Projects/HTML/5th Ave/img/zavesi/67753130_2385475594998197_296214935103340544_n_2385475588331531.jpg
+/Projects/HTML/5th Ave/img/zavesi/67757652_2385474064998350_1906358853948145664_n_2385474048331685.jpg
+/Projects/HTML/5th Ave/img/zavesi/67789035_2385475531664870_1920846564616568832_n_2385475528331537.jpg
+/Projects/HTML/5th Ave/img/zavesi/67798742_2385476034998153_7729550796051709952_n_2385476028331487.jpg
+/Projects/HTML/5th Ave/img/zavesi/67815303_2385474508331639_2259676878195392512_n_2385474504998306.jpg
+/Projects/HTML/5th Ave/img/zavesi/67820360_2385476428331447_4859152533555249152_n_2385476424998114.jpg
+/Projects/HTML/5th Ave/img/zavesi/67830295_2385474444998312_8833721806213873664_n_2385474431664980.jpg
+/Projects/HTML/5th Ave/img/zavesi/67837299_2385475668331523_2529732254125522944_n_2385475661664857.jpg
+/Projects/HTML/5th Ave/img/zavesi/67843213_2385467818332308_1246205479856635904_n_2385467814998975.jpg
+/Projects/HTML/5th Ave/img/zavesi/67846063_2385474531664970_6445380648566784000_n_2385474524998304.jpg
+/Projects/HTML/5th Ave/img/zavesi/67849013_2385473521665071_491327529764782080_n_2385473518331738.jpg
+/Projects/HTML/5th Ave/img/zavesi/67871106_2385475814998175_4501379691919179776_n_2385475811664842.jpg
+/Projects/HTML/5th Ave/img/zavesi/67872059_2385475088331581_8816629850715455488_n_2385475081664915.jpg
+/Projects/HTML/5th Ave/img/zavesi/67877080_2385474344998322_2451677532827680768_n_2385474341664989.jpg
+/Projects/HTML/5th Ave/img/zavesi/67877766_2385474808331609_2070434623359287296_n_2385474791664944.jpg
+/Projects/HTML/5th Ave/img/zavesi/67895938_2385475428331547_1283224661974319104_n_2385475421664881.jpg
+/Projects/HTML/5th Ave/img/zavesi/67909809_2385475914998165_4061967733963620352_n_2385475901664833.jpg
+/Projects/HTML/5th Ave/img/zavesi/67916581_2385467898332300_1630229161605857280_n_2385467894998967.jpg
+/Projects/HTML/5th Ave/img/zavesi/67970852_2385473888331701_6237946286654357504_n_2385473881665035.jpg
+/Projects/HTML/5th Ave/img/zavesi/67972877_2385474151665008_7496889016013291520_n_2385474138331676.jpg
+/Projects/HTML/5th Ave/img/zavesi/68274434_2385467924998964_5296360765266067456_n_2385467921665631.jpg
+/Projects/HTML/5th Ave/img/zavesi/68288005_2385475688331521_4819911058049204224_n_2385475684998188.jpg
+/Projects/HTML/5th Ave/img/zavesi/68379257_2385474001665023_4092307988532953088_n_2385473998331690.jpg
+/Projects/HTML/5th Ave/img/zavesi/68523663_2385476128331477_2849056299419697152_n_2385476121664811.jpg
+/Projects/HTML/5th Ave/img/zavesi/68531481_2385475928331497_1236245506531786752_n_2385475921664831.jpg
+/Projects/HTML/5th Ave/img/zavesi/68543591_2385474671664956_3533525201360781312_n_2385474661664957.jpg
+/Projects/HTML/5th Ave/img/zavesi/68549568_2385476074998149_5409957642313400320_n_2385476064998150.jpg
+/Projects/HTML/5th Ave/img/zavesi/68662331_2385475854998171_6773762427700903936_n_2385475851664838.jpg
+/Projects/HTML/5th Ave/img/zebri/67324475_2385473834998373_6036491824888020992_n_2385473831665040.jpg
+/Projects/HTML/5th Ave/img/zebri/67392063_2385474038331686_7725374451457458176_n_2385474034998353.jpg
+/Projects/HTML/5th Ave/img/zebri/67399011_2385475578331532_1966912369493803008_n_2385475571664866.jpg
+/Projects/HTML/5th Ave/img/zebri/67424612_2385473424998414_6466768752477208576_n_2385473421665081.jpg
+/Projects/HTML/5th Ave/img/zebri/67476989_2385474581664965_5794326897131257856_n_2385474578331632.jpg
+/Projects/HTML/5th Ave/img/zebri/67574927_2385476618331428_111179270021185536_n_2385476614998095.jpg
+/Projects/HTML/5th Ave/img/zebri/67726128_2385475514998205_1144866164594180096_n_2385475501664873.jpg
+/Projects/HTML/5th Ave/img/zebri/68274436_2385475361664887_2703613588492255232_n_2385475354998221.jpg
+/Projects/HTML/5th Ave/img/zebri/68443586_2385474934998263_2159489563356037120_n_2385474921664931.jpg
+/Projects/HTML/5th Ave/img/zebri/68569922_2385475604998196_7861889312650952704_n_2385475598331530.jpg
+/Projects/HTML/5th Ave/js/.htaccess
+/Projects/HTML/5th Ave/js/gallery.js
+/Projects/HTML/5th Ave/contact.html
+/Projects/HTML/5th Ave/gall1.html
+/Projects/HTML/5th Ave/gall2.html
+/Projects/HTML/5th Ave/gall3.html
+/Projects/HTML/5th Ave/gall4.html
+/Projects/HTML/5th Ave/gall5.html
+/Projects/HTML/5th Ave/index.html
+/Projects/HTML/5thAveNew/.idea/.gitignore
+/Projects/HTML/5thAveNew/.idea/5thAveNew.iml
+/Projects/HTML/5thAveNew/.idea/misc.xml
+/Projects/HTML/5thAveNew/.idea/modules.xml
+/Projects/HTML/5thAveNew/css/customizer.css
+/Projects/HTML/5thAveNew/css/style.css
+/Projects/HTML/5thAveNew/js/form.js
+/Projects/HTML/5thAveNew/js/gallery.js
+/Projects/HTML/5thAveNew/js/input.json
+/Projects/HTML/5thAveNew/contact.html
+/Projects/HTML/5thAveNew/customizer.html
+/Projects/HTML/5thAveNew/index.html
+/Projects/HTML/5thAveNew/katalog.html
+/Projects/HTML/5thAveNew/kzavesi.html
+/Projects/HTML/Lab1/.idea/.gitignore
+/Projects/HTML/Lab1/.idea/LabIpKs.iml
+/Projects/HTML/Lab1/.idea/misc.xml
+/Projects/HTML/Lab1/.idea/modules.xml
+/Projects/HTML/Lab1/1.html
+/Projects/HTML/Lab1/2.html
+/Projects/HTML/Lab1/3.html
+/Projects/HTML/Lab1/4.html
+/Projects/HTML/Lab1/5.html
+/Projects/HTML/PixelPerfect/
+/Projects/HTML/Sidebar/css.css
+/Projects/HTML/Sidebar/index.html
+/Projects/HTML/Sidebar/lines.png
+/Projects/HTML/untitled/.idea/.gitignore
+/Projects/HTML/untitled/.idea/misc.xml
+/Projects/HTML/untitled/.idea/modules.xml
+/Projects/HTML/untitled/.idea/untitled.iml
+/Projects/HTML/untitled/av.html
+/Projects/HTML/5th Ave.zip
+/Projects/HTML/Kristijan_Zafirovski_221287.zip
+/Projects/ispitna/.idea/.gitignore
+/Projects/ispitna/.idea/misc.xml
+/Projects/ispitna/.idea/modules.xml
+/Projects/ispitna/src/Server.java
+/Projects/ispitna/src/Worker.java
+/Projects/ispitna/.gitignore
+/Projects/ispitna/ispitna.iml
+/Projects/KDPCSTM/.idea/.gitignore
+/Projects/KDPCSTM/.idea/KDPCSTM.iml
+/Projects/KDPCSTM/.idea/misc.xml
+/Projects/KDPCSTM/.idea/modules.xml
+/Projects/KDPCSTM/css/configurator.css
+/Projects/KDPCSTM/Images/dials/arabicWhiteND.png
+/Projects/KDPCSTM/js/configurator.js
+/Projects/KDPCSTM/configurator.html
+/Projects/KDPCSTM/database.json
+/Projects/Maya/3D Assets/Assets/.mayaSwatches/licenceplate1.jpg_hcm.swatch
+/Projects/Maya/3D Assets/Assets/Brake Disk.mtl
+/Projects/Maya/3D Assets/Assets/Brake Disk.obj
+/Projects/Maya/3D Assets/Assets/caliper.mtl
+/Projects/Maya/3D Assets/Assets/caliper.obj
+/Projects/Maya/3D Assets/Assets/licenceplate.mtl
+/Projects/Maya/3D Assets/Assets/licenceplate.obj
+/Projects/Maya/3D Assets/Assets/licenceplate.psd
+/Projects/Maya/3D Assets/Assets/licenceplate1.jpg
+/Projects/Maya/3D Assets/Assets/licenceplate1.tx
+/Projects/Maya/3D Assets/Assets/rad.mtl
+/Projects/Maya/3D Assets/Assets/rad.obj
+/Projects/Maya/3D Assets/Assets/tire.ma
+/Projects/Maya/3D Assets/Assets/Tire.obj
+/Projects/Maya/3D Assets/CGTrader/Anvil/anvilobj/anvil.mtl
+/Projects/Maya/3D Assets/CGTrader/Anvil/anvilobj/anvil.obj
+/Projects/Maya/3D Assets/CGTrader/Anvil/anvil.fbx
+/Projects/Maya/3D Assets/CGTrader/Anvil/anvil.jpeg
+/Projects/Maya/3D Assets/CGTrader/Anvil/anvilobj.zip
+/Projects/Maya/3D Assets/CGTrader/Anvil/preview2.jpeg
+/Projects/Maya/3D Assets/CGTrader/Anvil/preview3.jpeg
+/Projects/Maya/3D Assets/CGTrader/Chest/chest.fbx
+/Projects/Maya/3D Assets/CGTrader/Chest/Chest.ma
+/Projects/Maya/3D Assets/CGTrader/Chest/chest.mtl
+/Projects/Maya/3D Assets/CGTrader/Chest/chest.obj
+/Projects/Maya/3D Assets/CGTrader/Chest/r1.jpg
+/Projects/Maya/3D Assets/CGTrader/Chest/r2.jpg
+/Projects/Maya/3D Assets/CGTrader/Chest/r3.jpg
+/Projects/Maya/3D Assets/CGTrader/Chest/r4.jpg
+/Projects/Maya/3D Assets/CGTrader/Chest/r5.jpg
+/Projects/Maya/3D Assets/CGTrader/Chest/Textures.rar
+/Projects/Maya/3D Assets/CGTrader/CLA/car.fbx
+/Projects/Maya/3D Assets/CGTrader/CLA/car.obj
+/Projects/Maya/3D Assets/CGTrader/CLA/Final.ma
+/Projects/Maya/3D Assets/CGTrader/CLA/Render.ma
+/Projects/Maya/3D Assets/CGTrader/CLA/Render1.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/Render2.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/Render3.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/Render4.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/Render5.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/w1.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/w2.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/w3.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/w4.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/w5.jpg
+/Projects/Maya/3D Assets/CGTrader/CLA/w6.jpg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/r1.5.jpg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/r2.jpg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/r3.jpg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/robot.fbx
+/Projects/Maya/3D Assets/CGTrader/Cozmo/robot.mtl
+/Projects/Maya/3D Assets/CGTrader/Cozmo/robot.obj
+/Projects/Maya/3D Assets/CGTrader/Cozmo/Textures.rar
+/Projects/Maya/3D Assets/CGTrader/Cozmo/w1.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/w2.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/w3.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cozmo/w4.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/BottlePictureTexture.zip
+/Projects/Maya/3D Assets/CGTrader/Cutlery/bowl.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/Coffee_Mug.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/Coffee_Mug_Full.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/Coffee_Pot.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/CutleryPack.zip
+/Projects/Maya/3D Assets/CGTrader/Cutlery/fork.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/glass.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/plate.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/preview1.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/preview2.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/preview3.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/spoon.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/Wine_Bottle.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/Wine_Glass.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/Wine_Glass_Full.fbx
+/Projects/Maya/3D Assets/CGTrader/Cutlery/wireframe1.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/wireframe2.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/wireframe3.jpeg
+/Projects/Maya/3D Assets/CGTrader/Cutlery/wireframe4.jpeg
+/Projects/Maya/3D Assets/CGTrader/Deagle/Texture/fine_grained_wood_col_2k.jpg
+/Projects/Maya/3D Assets/CGTrader/Deagle/1.jpg
+/Projects/Maya/3D Assets/CGTrader/Deagle/2.jpg
+/Projects/Maya/3D Assets/CGTrader/Deagle/Gun.fbx
+/Projects/Maya/3D Assets/CGTrader/Deagle/Gun.ma
+/Projects/Maya/3D Assets/CGTrader/Deagle/Gun.mb
+/Projects/Maya/3D Assets/CGTrader/Deagle/Gun.mtl
+/Projects/Maya/3D Assets/CGTrader/Deagle/Gun.obj
+/Projects/Maya/3D Assets/CGTrader/Deagle/Texture.zip
+/Projects/Maya/3D Assets/CGTrader/Dining Table/chair.fbx
+/Projects/Maya/3D Assets/CGTrader/Dining Table/chair.mtl
+/Projects/Maya/3D Assets/CGTrader/Dining Table/chair.obj
+/Projects/Maya/3D Assets/CGTrader/Dining Table/Objectsobj.zip
+/Projects/Maya/3D Assets/CGTrader/Dining Table/preview1.jpeg
+/Projects/Maya/3D Assets/CGTrader/Dining Table/preview2.jpeg
+/Projects/Maya/3D Assets/CGTrader/Dining Table/preview3.jpg
+/Projects/Maya/3D Assets/CGTrader/Dining Table/table.fbx
+/Projects/Maya/3D Assets/CGTrader/Dining Table/table.mtl
+/Projects/Maya/3D Assets/CGTrader/Dining Table/table.obj
+/Projects/Maya/3D Assets/CGTrader/Dining Table/Textures.zip
+/Projects/Maya/3D Assets/CGTrader/Dining Table/wireframe1.jpeg
+/Projects/Maya/3D Assets/CGTrader/Dining Table/wireframe2.jpeg
+/Projects/Maya/3D Assets/CGTrader/Globe/globe.fbx
+/Projects/Maya/3D Assets/CGTrader/Globe/globe.ma
+/Projects/Maya/3D Assets/CGTrader/Globe/globe.mb
+/Projects/Maya/3D Assets/CGTrader/Globe/globe.mtl
+/Projects/Maya/3D Assets/CGTrader/Globe/globe.obj
+/Projects/Maya/3D Assets/CGTrader/Globe/r1.jpg
+/Projects/Maya/3D Assets/CGTrader/Globe/r2.jpg
+/Projects/Maya/3D Assets/CGTrader/Globe/r3.jpg
+/Projects/Maya/3D Assets/CGTrader/Globe/textures.zip
+/Projects/Maya/3D Assets/CGTrader/MP40/gun.fbx
+/Projects/Maya/3D Assets/CGTrader/MP40/gun.mb
+/Projects/Maya/3D Assets/CGTrader/MP40/gun.mtl
+/Projects/Maya/3D Assets/CGTrader/MP40/gun.obj
+/Projects/Maya/3D Assets/CGTrader/MP40/r1.png
+/Projects/Maya/3D Assets/CGTrader/MP40/r2.png
+/Projects/Maya/3D Assets/CGTrader/MP40/r3.png
+/Projects/Maya/3D Assets/CGTrader/MP40/r4.png
+/Projects/Maya/3D Assets/CGTrader/MP40/r5.png
+/Projects/Maya/3D Assets/CGTrader/MP40/Textures.zip
+/Projects/Maya/3D Assets/CGTrader/Ship/r1.jpg
+/Projects/Maya/3D Assets/CGTrader/Ship/r2.jpg
+/Projects/Maya/3D Assets/CGTrader/Ship/r3.jpg
+/Projects/Maya/3D Assets/CGTrader/Ship/Ship.mb
+/Projects/Maya/3D Assets/CGTrader/Ship/ship.mtl
+/Projects/Maya/3D Assets/CGTrader/Ship/ship.obj
+/Projects/Maya/3D Assets/CGTrader/Ship/shiptx.fbx
+/Projects/Maya/3D Assets/CGTrader/Ship/textures.zip
+/Projects/Maya/3D Assets/CGTrader/Watch/1.ma
+/Projects/Maya/3D Assets/CGTrader/Watch/render.jpeg
+/Projects/Maya/3D Assets/CGTrader/Watch/watch.fbx
+/Projects/Maya/3D Assets/CGTrader/Watch/watch.mtl
+/Projects/Maya/3D Assets/CGTrader/Watch/watch.obj
+/Projects/Maya/3D Assets/CGTrader/Watch/watchobj.zip
+/Projects/Maya/3D Assets/CGTrader/Watch/wireframe.jpeg
+/Projects/Maya/3D Assets/HDRI's and backplates/.mayaSwatches/kloppenheim_02_2k.hdr_hcm.swatch
+/Projects/Maya/3D Assets/HDRI's and backplates/abandoned parking/abandoned_parking.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/abandoned parking/abandoned_parking_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/cloudy cliffside road/cloudy_cliffside_road_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/cloudy cliffside road/DSC07590.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/driving school/driving_school.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/driving school/driving_school_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/driving school/DSC_0133.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/Parking Garage/IMG_0578.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/Parking Garage/parking_garage_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/Rooftop/20160517-IMG_6246-HDR.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/Rooftop/rooftop_day_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/straw rolls field/DSC_0213.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/straw rolls field/straw_rolls_field_01_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/the sky is on fire/IMG_0842.jpg
+/Projects/Maya/3D Assets/HDRI's and backplates/the sky is on fire/the_sky_is_on_fire_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/Flat_2.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/kloppenheim_02_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/studio_small_07_1k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/sunflowers_2k.hdr
+/Projects/Maya/3D Assets/HDRI's and backplates/whipple_creek_regional_park_04_2k.hdr
+/Projects/Maya/3D Assets/PBR/bark1-bl.zip
+/Projects/Maya/3D Assets/PBR/brown_mud_leaves_01_2k_jpg.zip
+/Projects/Maya/3D Assets/PBR/flat-cobble-moss1-bl.zip
+/Projects/Maya/3D Assets/PBR/mixedmoss-bl4.zip
+/Projects/Maya/3D Assets/PBR/rough_wood_2k_jpg.zip
+/Projects/Maya/3D Assets/PBR/stonewall-bl.zip
+/Projects/Maya/3D Assets/Wildcat/13780bb6/13780bb6.fbx
+/Projects/Maya/3D Assets/Wildcat/13780bb6/13780bb6.zip
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_0_13780bb6_AO.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_0_13780bb6_BaseColor.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_0_13780bb6_Height.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_0_13780bb6_Metalness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_0_13780bb6_Normal.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_0_13780bb6_Roughness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_1_13780bb6_AO.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_1_13780bb6_BaseColor.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_1_13780bb6_Height.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_1_13780bb6_Metalness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_1_13780bb6_Normal.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_1_13780bb6_Roughness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_2_13780bb6_AO.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_2_13780bb6_BaseColor.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_2_13780bb6_Height.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_2_13780bb6_Metalness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_2_13780bb6_Normal.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_2_13780bb6_Roughness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_3_13780bb6_AO.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_3_13780bb6_BaseColor.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_3_13780bb6_Height.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_3_13780bb6_Metalness.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_3_13780bb6_Normal.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6/M_0_3_13780bb6_Roughness.jpg
+/Projects/Maya/3D Assets/Wildcat/HDRI/low-poly standard HDRI.hdr
+/Projects/Maya/3D Assets/Wildcat/Test/ref/description.txt
+/Projects/Maya/3D Assets/Wildcat/Test/ref/front.jpg
+/Projects/Maya/3D Assets/Wildcat/Test/ref/Live scene.jpg
+/Projects/Maya/3D Assets/Wildcat/Test/ref/Reference(PBR).zip
+/Projects/Maya/3D Assets/Wildcat/Test/ref/top.jpg
+/Projects/Maya/3D Assets/Wildcat/13780bb6.zip
+/Projects/Maya/3D Assets/zaf3D/logo.jpg
+/Projects/Maya/3D Assets/zaf3D/logo.psd
+/Projects/Maya/3D Assets/image2017-4-3 12-22-51.png
+/Projects/Maya/Renders/4K/Pictures/F22 Raptor/2rt0001.jpg
+/Projects/Maya/Renders/1080P/Pictures/Chevy Tahoe/render1.jpeg
+/Projects/Maya/Renders/1080P/Pictures/Chevy Tahoe/render2.jpeg
+/Projects/Maya/Renders/1080P/Pictures/Chevy Tahoe/render3.jpeg
+/Projects/Maya/Renders/1080P/Pictures/Chevy Tahoe/render4.jpeg
+/Projects/Maya/Renders/1080P/Pictures/Chevy Tahoe/Thumbs.db
+/Projects/Maya/Renders/1080P/Pictures/1st iterationWheel.jpg
+/Projects/Maya/Renders/1080P/Pictures/image.jpg
+/Projects/Maya/Renders/1080P/Pictures/r1wip.jpg
+/Projects/Maya/Renders/New Text Document.txt
+/Projects/Maya/button.mb
+/Projects/studybridge/.idea/.gitignore
+/Projects/studybridge/.idea/jsLibraryMappings.xml
+/Projects/studybridge/.idea/modules.xml
+/Projects/studybridge/.idea/studybridge.iml
+/Projects/studybridge/.idea/vcs.xml
+/Projects/studybridge/public/file.svg
+/Projects/studybridge/public/globe.svg
+/Projects/studybridge/public/next.svg
+/Projects/studybridge/public/vercel.svg
+/Projects/studybridge/public/window.svg
+/Projects/studybridge/src/app/favicon.ico
+/Projects/studybridge/src/app/globals.css
+/Projects/studybridge/src/app/layout.js
+/Projects/studybridge/src/app/page.js
+/Projects/studybridge/src/app/page.module.css
+/Projects/studybridge/.gitignore
+/Projects/studybridge/jsconfig.json
+/Projects/studybridge/next.config.mjs
+/Projects/studybridge/package.json
+/Projects/studybridge/package-lock.json
+/Projects/studybridge/README.md
+/Projects/untitled/.idea/.gitignore
+/Projects/untitled/.idea/jsLibraryMappings.xml
+/Projects/untitled/.idea/modules.xml
+/Projects/untitled/.idea/untitled.iml
+/Projects/untitled/.idea/vcs.xml
+/Projects/untitled/node_modules/.bin/mime
+/Projects/untitled/node_modules/.bin/mime.cmd
+/Projects/untitled/node_modules/.bin/mime.ps1
+/Projects/untitled/node_modules/accepts/HISTORY.md
+/Projects/untitled/node_modules/accepts/index.js
+/Projects/untitled/node_modules/accepts/LICENSE
+/Projects/untitled/node_modules/accepts/package.json
+/Projects/untitled/node_modules/accepts/README.md
+/Projects/untitled/node_modules/array-flatten/array-flatten.js
+/Projects/untitled/node_modules/array-flatten/LICENSE
+/Projects/untitled/node_modules/array-flatten/package.json
+/Projects/untitled/node_modules/array-flatten/README.md
+/Projects/untitled/node_modules/body-parser/lib/types/json.js
+/Projects/untitled/node_modules/body-parser/lib/types/raw.js
+/Projects/untitled/node_modules/body-parser/lib/types/text.js
+/Projects/untitled/node_modules/body-parser/lib/types/urlencoded.js
+/Projects/untitled/node_modules/body-parser/lib/read.js
+/Projects/untitled/node_modules/body-parser/HISTORY.md
+/Projects/untitled/node_modules/body-parser/index.js
+/Projects/untitled/node_modules/body-parser/LICENSE
+/Projects/untitled/node_modules/body-parser/package.json
+/Projects/untitled/node_modules/body-parser/README.md
+/Projects/untitled/node_modules/body-parser/SECURITY.md
+/Projects/untitled/node_modules/bytes/History.md
+/Projects/untitled/node_modules/bytes/index.js
+/Projects/untitled/node_modules/bytes/LICENSE
+/Projects/untitled/node_modules/bytes/package.json
+/Projects/untitled/node_modules/bytes/Readme.md
+/Projects/untitled/node_modules/call-bind-apply-helpers/.github/FUNDING.yml
+/Projects/untitled/node_modules/call-bind-apply-helpers/test/index.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/.eslintrc
+/Projects/untitled/node_modules/call-bind-apply-helpers/.nycrc
+/Projects/untitled/node_modules/call-bind-apply-helpers/actualApply.d.ts
+/Projects/untitled/node_modules/call-bind-apply-helpers/actualApply.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/applyBind.d.ts
+/Projects/untitled/node_modules/call-bind-apply-helpers/applyBind.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/CHANGELOG.md
+/Projects/untitled/node_modules/call-bind-apply-helpers/functionApply.d.ts
+/Projects/untitled/node_modules/call-bind-apply-helpers/functionApply.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/functionCall.d.ts
+/Projects/untitled/node_modules/call-bind-apply-helpers/functionCall.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/index.d.ts
+/Projects/untitled/node_modules/call-bind-apply-helpers/index.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/LICENSE
+/Projects/untitled/node_modules/call-bind-apply-helpers/package.json
+/Projects/untitled/node_modules/call-bind-apply-helpers/README.md
+/Projects/untitled/node_modules/call-bind-apply-helpers/reflectApply.d.ts
+/Projects/untitled/node_modules/call-bind-apply-helpers/reflectApply.js
+/Projects/untitled/node_modules/call-bind-apply-helpers/tsconfig.json
+/Projects/untitled/node_modules/call-bound/.github/FUNDING.yml
+/Projects/untitled/node_modules/call-bound/test/index.js
+/Projects/untitled/node_modules/call-bound/.eslintrc
+/Projects/untitled/node_modules/call-bound/.nycrc
+/Projects/untitled/node_modules/call-bound/CHANGELOG.md
+/Projects/untitled/node_modules/call-bound/index.d.ts
+/Projects/untitled/node_modules/call-bound/index.js
+/Projects/untitled/node_modules/call-bound/LICENSE
+/Projects/untitled/node_modules/call-bound/package.json
+/Projects/untitled/node_modules/call-bound/README.md
+/Projects/untitled/node_modules/call-bound/tsconfig.json
+/Projects/untitled/node_modules/content-disposition/HISTORY.md
+/Projects/untitled/node_modules/content-disposition/index.js
+/Projects/untitled/node_modules/content-disposition/LICENSE
+/Projects/untitled/node_modules/content-disposition/package.json
+/Projects/untitled/node_modules/content-disposition/README.md
+/Projects/untitled/node_modules/content-type/HISTORY.md
+/Projects/untitled/node_modules/content-type/index.js
+/Projects/untitled/node_modules/content-type/LICENSE
+/Projects/untitled/node_modules/content-type/package.json
+/Projects/untitled/node_modules/content-type/README.md
+/Projects/untitled/node_modules/cookie/index.js
+/Projects/untitled/node_modules/cookie/LICENSE
+/Projects/untitled/node_modules/cookie/package.json
+/Projects/untitled/node_modules/cookie/README.md
+/Projects/untitled/node_modules/cookie/SECURITY.md
+/Projects/untitled/node_modules/cookie-signature/.npmignore
+/Projects/untitled/node_modules/cookie-signature/History.md
+/Projects/untitled/node_modules/cookie-signature/index.js
+/Projects/untitled/node_modules/cookie-signature/package.json
+/Projects/untitled/node_modules/cookie-signature/Readme.md
+/Projects/untitled/node_modules/debug/src/browser.js
+/Projects/untitled/node_modules/debug/src/debug.js
+/Projects/untitled/node_modules/debug/src/index.js
+/Projects/untitled/node_modules/debug/src/inspector-log.js
+/Projects/untitled/node_modules/debug/src/node.js
+/Projects/untitled/node_modules/debug/.coveralls.yml
+/Projects/untitled/node_modules/debug/.eslintrc
+/Projects/untitled/node_modules/debug/.npmignore
+/Projects/untitled/node_modules/debug/.travis.yml
+/Projects/untitled/node_modules/debug/CHANGELOG.md
+/Projects/untitled/node_modules/debug/component.json
+/Projects/untitled/node_modules/debug/karma.conf.js
+/Projects/untitled/node_modules/debug/LICENSE
+/Projects/untitled/node_modules/debug/Makefile
+/Projects/untitled/node_modules/debug/node.js
+/Projects/untitled/node_modules/debug/package.json
+/Projects/untitled/node_modules/debug/README.md
+/Projects/untitled/node_modules/depd/lib/browser/index.js
+/Projects/untitled/node_modules/depd/History.md
+/Projects/untitled/node_modules/depd/index.js
+/Projects/untitled/node_modules/depd/LICENSE
+/Projects/untitled/node_modules/depd/package.json
+/Projects/untitled/node_modules/depd/Readme.md
+/Projects/untitled/node_modules/destroy/index.js
+/Projects/untitled/node_modules/destroy/LICENSE
+/Projects/untitled/node_modules/destroy/package.json
+/Projects/untitled/node_modules/destroy/README.md
+/Projects/untitled/node_modules/dunder-proto/.github/FUNDING.yml
+/Projects/untitled/node_modules/dunder-proto/test/get.js
+/Projects/untitled/node_modules/dunder-proto/test/index.js
+/Projects/untitled/node_modules/dunder-proto/test/set.js
+/Projects/untitled/node_modules/dunder-proto/.eslintrc
+/Projects/untitled/node_modules/dunder-proto/.nycrc
+/Projects/untitled/node_modules/dunder-proto/CHANGELOG.md
+/Projects/untitled/node_modules/dunder-proto/get.d.ts
+/Projects/untitled/node_modules/dunder-proto/get.js
+/Projects/untitled/node_modules/dunder-proto/LICENSE
+/Projects/untitled/node_modules/dunder-proto/package.json
+/Projects/untitled/node_modules/dunder-proto/README.md
+/Projects/untitled/node_modules/dunder-proto/set.d.ts
+/Projects/untitled/node_modules/dunder-proto/set.js
+/Projects/untitled/node_modules/dunder-proto/tsconfig.json
+/Projects/untitled/node_modules/ee-first/index.js
+/Projects/untitled/node_modules/ee-first/LICENSE
+/Projects/untitled/node_modules/ee-first/package.json
+/Projects/untitled/node_modules/ee-first/README.md
+/Projects/untitled/node_modules/encodeurl/index.js
+/Projects/untitled/node_modules/encodeurl/LICENSE
+/Projects/untitled/node_modules/encodeurl/package.json
+/Projects/untitled/node_modules/encodeurl/README.md
+/Projects/untitled/node_modules/es-define-property/.github/FUNDING.yml
+/Projects/untitled/node_modules/es-define-property/test/index.js
+/Projects/untitled/node_modules/es-define-property/.eslintrc
+/Projects/untitled/node_modules/es-define-property/.nycrc
+/Projects/untitled/node_modules/es-define-property/CHANGELOG.md
+/Projects/untitled/node_modules/es-define-property/index.d.ts
+/Projects/untitled/node_modules/es-define-property/index.js
+/Projects/untitled/node_modules/es-define-property/LICENSE
+/Projects/untitled/node_modules/es-define-property/package.json
+/Projects/untitled/node_modules/es-define-property/README.md
+/Projects/untitled/node_modules/es-define-property/tsconfig.json
+/Projects/untitled/node_modules/es-errors/.github/FUNDING.yml
+/Projects/untitled/node_modules/es-errors/test/index.js
+/Projects/untitled/node_modules/es-errors/.eslintrc
+/Projects/untitled/node_modules/es-errors/CHANGELOG.md
+/Projects/untitled/node_modules/es-errors/eval.d.ts
+/Projects/untitled/node_modules/es-errors/eval.js
+/Projects/untitled/node_modules/es-errors/index.d.ts
+/Projects/untitled/node_modules/es-errors/index.js
+/Projects/untitled/node_modules/es-errors/LICENSE
+/Projects/untitled/node_modules/es-errors/package.json
+/Projects/untitled/node_modules/es-errors/range.d.ts
+/Projects/untitled/node_modules/es-errors/range.js
+/Projects/untitled/node_modules/es-errors/README.md
+/Projects/untitled/node_modules/es-errors/ref.d.ts
+/Projects/untitled/node_modules/es-errors/ref.js
+/Projects/untitled/node_modules/es-errors/syntax.d.ts
+/Projects/untitled/node_modules/es-errors/syntax.js
+/Projects/untitled/node_modules/es-errors/tsconfig.json
+/Projects/untitled/node_modules/es-errors/type.d.ts
+/Projects/untitled/node_modules/es-errors/type.js
+/Projects/untitled/node_modules/es-errors/uri.d.ts
+/Projects/untitled/node_modules/es-errors/uri.js
+/Projects/untitled/node_modules/es-object-atoms/.github/FUNDING.yml
+/Projects/untitled/node_modules/es-object-atoms/test/index.js
+/Projects/untitled/node_modules/es-object-atoms/.eslintrc
+/Projects/untitled/node_modules/es-object-atoms/CHANGELOG.md
+/Projects/untitled/node_modules/es-object-atoms/index.d.ts
+/Projects/untitled/node_modules/es-object-atoms/index.js
+/Projects/untitled/node_modules/es-object-atoms/LICENSE
+/Projects/untitled/node_modules/es-object-atoms/package.json
+/Projects/untitled/node_modules/es-object-atoms/README.md
+/Projects/untitled/node_modules/es-object-atoms/RequireObjectCoercible.d.ts
+/Projects/untitled/node_modules/es-object-atoms/RequireObjectCoercible.js
+/Projects/untitled/node_modules/es-object-atoms/ToObject.d.ts
+/Projects/untitled/node_modules/es-object-atoms/ToObject.js
+/Projects/untitled/node_modules/es-object-atoms/tsconfig.json
+/Projects/untitled/node_modules/escape-html/index.js
+/Projects/untitled/node_modules/escape-html/LICENSE
+/Projects/untitled/node_modules/escape-html/package.json
+/Projects/untitled/node_modules/escape-html/Readme.md
+/Projects/untitled/node_modules/etag/HISTORY.md
+/Projects/untitled/node_modules/etag/index.js
+/Projects/untitled/node_modules/etag/LICENSE
+/Projects/untitled/node_modules/etag/package.json
+/Projects/untitled/node_modules/etag/README.md
+/Projects/untitled/node_modules/express/lib/middleware/init.js
+/Projects/untitled/node_modules/express/lib/middleware/query.js
+/Projects/untitled/node_modules/express/lib/router/index.js
+/Projects/untitled/node_modules/express/lib/router/layer.js
+/Projects/untitled/node_modules/express/lib/router/route.js
+/Projects/untitled/node_modules/express/lib/application.js
+/Projects/untitled/node_modules/express/lib/express.js
+/Projects/untitled/node_modules/express/lib/request.js
+/Projects/untitled/node_modules/express/lib/response.js
+/Projects/untitled/node_modules/express/lib/utils.js
+/Projects/untitled/node_modules/express/lib/view.js
+/Projects/untitled/node_modules/express/History.md
+/Projects/untitled/node_modules/express/index.js
+/Projects/untitled/node_modules/express/LICENSE
+/Projects/untitled/node_modules/express/package.json
+/Projects/untitled/node_modules/express/Readme.md
+/Projects/untitled/node_modules/finalhandler/HISTORY.md
+/Projects/untitled/node_modules/finalhandler/index.js
+/Projects/untitled/node_modules/finalhandler/LICENSE
+/Projects/untitled/node_modules/finalhandler/package.json
+/Projects/untitled/node_modules/finalhandler/README.md
+/Projects/untitled/node_modules/finalhandler/SECURITY.md
+/Projects/untitled/node_modules/forwarded/HISTORY.md
+/Projects/untitled/node_modules/forwarded/index.js
+/Projects/untitled/node_modules/forwarded/LICENSE
+/Projects/untitled/node_modules/forwarded/package.json
+/Projects/untitled/node_modules/forwarded/README.md
+/Projects/untitled/node_modules/fresh/HISTORY.md
+/Projects/untitled/node_modules/fresh/index.js
+/Projects/untitled/node_modules/fresh/LICENSE
+/Projects/untitled/node_modules/fresh/package.json
+/Projects/untitled/node_modules/fresh/README.md
+/Projects/untitled/node_modules/function-bind/.github/FUNDING.yml
+/Projects/untitled/node_modules/function-bind/.github/SECURITY.md
+/Projects/untitled/node_modules/function-bind/test/.eslintrc
+/Projects/untitled/node_modules/function-bind/test/index.js
+/Projects/untitled/node_modules/function-bind/.eslintrc
+/Projects/untitled/node_modules/function-bind/.nycrc
+/Projects/untitled/node_modules/function-bind/CHANGELOG.md
+/Projects/untitled/node_modules/function-bind/implementation.js
+/Projects/untitled/node_modules/function-bind/index.js
+/Projects/untitled/node_modules/function-bind/LICENSE
+/Projects/untitled/node_modules/function-bind/package.json
+/Projects/untitled/node_modules/function-bind/README.md
+/Projects/untitled/node_modules/get-intrinsic/.github/FUNDING.yml
+/Projects/untitled/node_modules/get-intrinsic/test/GetIntrinsic.js
+/Projects/untitled/node_modules/get-intrinsic/.eslintrc
+/Projects/untitled/node_modules/get-intrinsic/.nycrc
+/Projects/untitled/node_modules/get-intrinsic/CHANGELOG.md
+/Projects/untitled/node_modules/get-intrinsic/index.js
+/Projects/untitled/node_modules/get-intrinsic/LICENSE
+/Projects/untitled/node_modules/get-intrinsic/package.json
+/Projects/untitled/node_modules/get-intrinsic/README.md
+/Projects/untitled/node_modules/gopd/.github/FUNDING.yml
+/Projects/untitled/node_modules/gopd/test/index.js
+/Projects/untitled/node_modules/gopd/.eslintrc
+/Projects/untitled/node_modules/gopd/CHANGELOG.md
+/Projects/untitled/node_modules/gopd/gOPD.d.ts
+/Projects/untitled/node_modules/gopd/gOPD.js
+/Projects/untitled/node_modules/gopd/index.d.ts
+/Projects/untitled/node_modules/gopd/index.js
+/Projects/untitled/node_modules/gopd/LICENSE
+/Projects/untitled/node_modules/gopd/package.json
+/Projects/untitled/node_modules/gopd/README.md
+/Projects/untitled/node_modules/gopd/tsconfig.json
+/Projects/untitled/node_modules/has-symbols/.github/FUNDING.yml
+/Projects/untitled/node_modules/has-symbols/test/shams/core-js.js
+/Projects/untitled/node_modules/has-symbols/test/shams/get-own-property-symbols.js
+/Projects/untitled/node_modules/has-symbols/test/index.js
+/Projects/untitled/node_modules/has-symbols/test/tests.js
+/Projects/untitled/node_modules/has-symbols/.eslintrc
+/Projects/untitled/node_modules/has-symbols/.nycrc
+/Projects/untitled/node_modules/has-symbols/CHANGELOG.md
+/Projects/untitled/node_modules/has-symbols/index.d.ts
+/Projects/untitled/node_modules/has-symbols/index.js
+/Projects/untitled/node_modules/has-symbols/LICENSE
+/Projects/untitled/node_modules/has-symbols/package.json
+/Projects/untitled/node_modules/has-symbols/README.md
+/Projects/untitled/node_modules/has-symbols/shams.d.ts
+/Projects/untitled/node_modules/has-symbols/shams.js
+/Projects/untitled/node_modules/has-symbols/tsconfig.json
+/Projects/untitled/node_modules/hasown/.github/FUNDING.yml
+/Projects/untitled/node_modules/hasown/.eslintrc
+/Projects/untitled/node_modules/hasown/.nycrc
+/Projects/untitled/node_modules/hasown/CHANGELOG.md
+/Projects/untitled/node_modules/hasown/index.d.ts
+/Projects/untitled/node_modules/hasown/index.js
+/Projects/untitled/node_modules/hasown/LICENSE
+/Projects/untitled/node_modules/hasown/package.json
+/Projects/untitled/node_modules/hasown/README.md
+/Projects/untitled/node_modules/hasown/tsconfig.json
+/Projects/untitled/node_modules/http-errors/HISTORY.md
+/Projects/untitled/node_modules/http-errors/index.js
+/Projects/untitled/node_modules/http-errors/LICENSE
+/Projects/untitled/node_modules/http-errors/package.json
+/Projects/untitled/node_modules/http-errors/README.md
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/big5-added.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/cp936.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/cp949.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/cp950.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/eucjp.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/gbk-added.json
+/Projects/untitled/node_modules/iconv-lite/encodings/tables/shiftjis.json
+/Projects/untitled/node_modules/iconv-lite/encodings/dbcs-codec.js
+/Projects/untitled/node_modules/iconv-lite/encodings/dbcs-data.js
+/Projects/untitled/node_modules/iconv-lite/encodings/index.js
+/Projects/untitled/node_modules/iconv-lite/encodings/internal.js
+/Projects/untitled/node_modules/iconv-lite/encodings/sbcs-codec.js
+/Projects/untitled/node_modules/iconv-lite/encodings/sbcs-data.js
+/Projects/untitled/node_modules/iconv-lite/encodings/sbcs-data-generated.js
+/Projects/untitled/node_modules/iconv-lite/encodings/utf7.js
+/Projects/untitled/node_modules/iconv-lite/encodings/utf16.js
+/Projects/untitled/node_modules/iconv-lite/lib/bom-handling.js
+/Projects/untitled/node_modules/iconv-lite/lib/extend-node.js
+/Projects/untitled/node_modules/iconv-lite/lib/index.d.ts
+/Projects/untitled/node_modules/iconv-lite/lib/index.js
+/Projects/untitled/node_modules/iconv-lite/lib/streams.js
+/Projects/untitled/node_modules/iconv-lite/Changelog.md
+/Projects/untitled/node_modules/iconv-lite/LICENSE
+/Projects/untitled/node_modules/iconv-lite/package.json
+/Projects/untitled/node_modules/iconv-lite/README.md
+/Projects/untitled/node_modules/inherits/inherits.js
+/Projects/untitled/node_modules/inherits/inherits_browser.js
+/Projects/untitled/node_modules/inherits/LICENSE
+/Projects/untitled/node_modules/inherits/package.json
+/Projects/untitled/node_modules/inherits/README.md
+/Projects/untitled/node_modules/ipaddr.js/lib/ipaddr.js
+/Projects/untitled/node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+/Projects/untitled/node_modules/ipaddr.js/ipaddr.min.js
+/Projects/untitled/node_modules/ipaddr.js/LICENSE
+/Projects/untitled/node_modules/ipaddr.js/package.json
+/Projects/untitled/node_modules/ipaddr.js/README.md
+/Projects/untitled/node_modules/math-intrinsics/.github/FUNDING.yml
+/Projects/untitled/node_modules/math-intrinsics/constants/maxArrayLength.d.ts
+/Projects/untitled/node_modules/math-intrinsics/constants/maxArrayLength.js
+/Projects/untitled/node_modules/math-intrinsics/constants/maxSafeInteger.d.ts
+/Projects/untitled/node_modules/math-intrinsics/constants/maxSafeInteger.js
+/Projects/untitled/node_modules/math-intrinsics/constants/maxValue.d.ts
+/Projects/untitled/node_modules/math-intrinsics/constants/maxValue.js
+/Projects/untitled/node_modules/math-intrinsics/test/index.js
+/Projects/untitled/node_modules/math-intrinsics/.eslintrc
+/Projects/untitled/node_modules/math-intrinsics/abs.d.ts
+/Projects/untitled/node_modules/math-intrinsics/abs.js
+/Projects/untitled/node_modules/math-intrinsics/CHANGELOG.md
+/Projects/untitled/node_modules/math-intrinsics/floor.d.ts
+/Projects/untitled/node_modules/math-intrinsics/floor.js
+/Projects/untitled/node_modules/math-intrinsics/isFinite.d.ts
+/Projects/untitled/node_modules/math-intrinsics/isFinite.js
+/Projects/untitled/node_modules/math-intrinsics/isInteger.d.ts
+/Projects/untitled/node_modules/math-intrinsics/isInteger.js
+/Projects/untitled/node_modules/math-intrinsics/isNaN.d.ts
+/Projects/untitled/node_modules/math-intrinsics/isNaN.js
+/Projects/untitled/node_modules/math-intrinsics/isNegativeZero.d.ts
+/Projects/untitled/node_modules/math-intrinsics/isNegativeZero.js
+/Projects/untitled/node_modules/math-intrinsics/LICENSE
+/Projects/untitled/node_modules/math-intrinsics/max.d.ts
+/Projects/untitled/node_modules/math-intrinsics/max.js
+/Projects/untitled/node_modules/math-intrinsics/min.d.ts
+/Projects/untitled/node_modules/math-intrinsics/min.js
+/Projects/untitled/node_modules/math-intrinsics/mod.d.ts
+/Projects/untitled/node_modules/math-intrinsics/mod.js
+/Projects/untitled/node_modules/math-intrinsics/package.json
+/Projects/untitled/node_modules/math-intrinsics/pow.d.ts
+/Projects/untitled/node_modules/math-intrinsics/pow.js
+/Projects/untitled/node_modules/math-intrinsics/README.md
+/Projects/untitled/node_modules/math-intrinsics/sign.d.ts
+/Projects/untitled/node_modules/math-intrinsics/sign.js
+/Projects/untitled/node_modules/math-intrinsics/tsconfig.json
+/Projects/untitled/node_modules/media-typer/HISTORY.md
+/Projects/untitled/node_modules/media-typer/index.js
+/Projects/untitled/node_modules/media-typer/LICENSE
+/Projects/untitled/node_modules/media-typer/package.json
+/Projects/untitled/node_modules/media-typer/README.md
+/Projects/untitled/node_modules/merge-descriptors/HISTORY.md
+/Projects/untitled/node_modules/merge-descriptors/index.js
+/Projects/untitled/node_modules/merge-descriptors/LICENSE
+/Projects/untitled/node_modules/merge-descriptors/package.json
+/Projects/untitled/node_modules/merge-descriptors/README.md
+/Projects/untitled/node_modules/methods/HISTORY.md
+/Projects/untitled/node_modules/methods/index.js
+/Projects/untitled/node_modules/methods/LICENSE
+/Projects/untitled/node_modules/methods/package.json
+/Projects/untitled/node_modules/methods/README.md
+/Projects/untitled/node_modules/mime/src/build.js
+/Projects/untitled/node_modules/mime/src/test.js
+/Projects/untitled/node_modules/mime/.npmignore
+/Projects/untitled/node_modules/mime/CHANGELOG.md
+/Projects/untitled/node_modules/mime/cli.js
+/Projects/untitled/node_modules/mime/LICENSE
+/Projects/untitled/node_modules/mime/mime.js
+/Projects/untitled/node_modules/mime/package.json
+/Projects/untitled/node_modules/mime/README.md
+/Projects/untitled/node_modules/mime/types.json
+/Projects/untitled/node_modules/mime-db/db.json
+/Projects/untitled/node_modules/mime-db/HISTORY.md
+/Projects/untitled/node_modules/mime-db/index.js
+/Projects/untitled/node_modules/mime-db/LICENSE
+/Projects/untitled/node_modules/mime-db/package.json
+/Projects/untitled/node_modules/mime-db/README.md
+/Projects/untitled/node_modules/mime-types/HISTORY.md
+/Projects/untitled/node_modules/mime-types/index.js
+/Projects/untitled/node_modules/mime-types/LICENSE
+/Projects/untitled/node_modules/mime-types/package.json
+/Projects/untitled/node_modules/mime-types/README.md
+/Projects/untitled/node_modules/ms/index.js
+/Projects/untitled/node_modules/ms/license.md
+/Projects/untitled/node_modules/ms/package.json
+/Projects/untitled/node_modules/ms/readme.md
+/Projects/untitled/node_modules/negotiator/lib/charset.js
+/Projects/untitled/node_modules/negotiator/lib/encoding.js
+/Projects/untitled/node_modules/negotiator/lib/language.js
+/Projects/untitled/node_modules/negotiator/lib/mediaType.js
+/Projects/untitled/node_modules/negotiator/HISTORY.md
+/Projects/untitled/node_modules/negotiator/index.js
+/Projects/untitled/node_modules/negotiator/LICENSE
+/Projects/untitled/node_modules/negotiator/package.json
+/Projects/untitled/node_modules/negotiator/README.md
+/Projects/untitled/node_modules/object-inspect/.github/FUNDING.yml
+/Projects/untitled/node_modules/object-inspect/example/all.js
+/Projects/untitled/node_modules/object-inspect/example/circular.js
+/Projects/untitled/node_modules/object-inspect/example/fn.js
+/Projects/untitled/node_modules/object-inspect/example/inspect.js
+/Projects/untitled/node_modules/object-inspect/test/browser/dom.js
+/Projects/untitled/node_modules/object-inspect/test/bigint.js
+/Projects/untitled/node_modules/object-inspect/test/circular.js
+/Projects/untitled/node_modules/object-inspect/test/deep.js
+/Projects/untitled/node_modules/object-inspect/test/element.js
+/Projects/untitled/node_modules/object-inspect/test/err.js
+/Projects/untitled/node_modules/object-inspect/test/fakes.js
+/Projects/untitled/node_modules/object-inspect/test/fn.js
+/Projects/untitled/node_modules/object-inspect/test/global.js
+/Projects/untitled/node_modules/object-inspect/test/has.js
+/Projects/untitled/node_modules/object-inspect/test/holes.js
+/Projects/untitled/node_modules/object-inspect/test/indent-option.js
+/Projects/untitled/node_modules/object-inspect/test/inspect.js
+/Projects/untitled/node_modules/object-inspect/test/lowbyte.js
+/Projects/untitled/node_modules/object-inspect/test/number.js
+/Projects/untitled/node_modules/object-inspect/test/quoteStyle.js
+/Projects/untitled/node_modules/object-inspect/test/toStringTag.js
+/Projects/untitled/node_modules/object-inspect/test/undef.js
+/Projects/untitled/node_modules/object-inspect/test/values.js
+/Projects/untitled/node_modules/object-inspect/.eslintrc
+/Projects/untitled/node_modules/object-inspect/.nycrc
+/Projects/untitled/node_modules/object-inspect/CHANGELOG.md
+/Projects/untitled/node_modules/object-inspect/index.js
+/Projects/untitled/node_modules/object-inspect/LICENSE
+/Projects/untitled/node_modules/object-inspect/package.json
+/Projects/untitled/node_modules/object-inspect/package-support.json
+/Projects/untitled/node_modules/object-inspect/readme.markdown
+/Projects/untitled/node_modules/object-inspect/test-core-js.js
+/Projects/untitled/node_modules/object-inspect/util.inspect.js
+/Projects/untitled/node_modules/on-finished/HISTORY.md
+/Projects/untitled/node_modules/on-finished/index.js
+/Projects/untitled/node_modules/on-finished/LICENSE
+/Projects/untitled/node_modules/on-finished/package.json
+/Projects/untitled/node_modules/on-finished/README.md
+/Projects/untitled/node_modules/parseurl/HISTORY.md
+/Projects/untitled/node_modules/parseurl/index.js
+/Projects/untitled/node_modules/parseurl/LICENSE
+/Projects/untitled/node_modules/parseurl/package.json
+/Projects/untitled/node_modules/parseurl/README.md
+/Projects/untitled/node_modules/path-to-regexp/index.js
+/Projects/untitled/node_modules/path-to-regexp/LICENSE
+/Projects/untitled/node_modules/path-to-regexp/package.json
+/Projects/untitled/node_modules/path-to-regexp/Readme.md
+/Projects/untitled/node_modules/proxy-addr/HISTORY.md
+/Projects/untitled/node_modules/proxy-addr/index.js
+/Projects/untitled/node_modules/proxy-addr/LICENSE
+/Projects/untitled/node_modules/proxy-addr/package.json
+/Projects/untitled/node_modules/proxy-addr/README.md
+/Projects/untitled/node_modules/qs/.github/FUNDING.yml
+/Projects/untitled/node_modules/qs/dist/qs.js
+/Projects/untitled/node_modules/qs/lib/formats.js
+/Projects/untitled/node_modules/qs/lib/index.js
+/Projects/untitled/node_modules/qs/lib/parse.js
+/Projects/untitled/node_modules/qs/lib/stringify.js
+/Projects/untitled/node_modules/qs/lib/utils.js
+/Projects/untitled/node_modules/qs/test/empty-keys-cases.js
+/Projects/untitled/node_modules/qs/test/parse.js
+/Projects/untitled/node_modules/qs/test/stringify.js
+/Projects/untitled/node_modules/qs/test/utils.js
+/Projects/untitled/node_modules/qs/.editorconfig
+/Projects/untitled/node_modules/qs/.eslintrc
+/Projects/untitled/node_modules/qs/.nycrc
+/Projects/untitled/node_modules/qs/CHANGELOG.md
+/Projects/untitled/node_modules/qs/LICENSE.md
+/Projects/untitled/node_modules/qs/package.json
+/Projects/untitled/node_modules/qs/README.md
+/Projects/untitled/node_modules/range-parser/HISTORY.md
+/Projects/untitled/node_modules/range-parser/index.js
+/Projects/untitled/node_modules/range-parser/LICENSE
+/Projects/untitled/node_modules/range-parser/package.json
+/Projects/untitled/node_modules/range-parser/README.md
+/Projects/untitled/node_modules/raw-body/HISTORY.md
+/Projects/untitled/node_modules/raw-body/index.d.ts
+/Projects/untitled/node_modules/raw-body/index.js
+/Projects/untitled/node_modules/raw-body/LICENSE
+/Projects/untitled/node_modules/raw-body/package.json
+/Projects/untitled/node_modules/raw-body/README.md
+/Projects/untitled/node_modules/raw-body/SECURITY.md
+/Projects/untitled/node_modules/safe-buffer/index.d.ts
+/Projects/untitled/node_modules/safe-buffer/index.js
+/Projects/untitled/node_modules/safe-buffer/LICENSE
+/Projects/untitled/node_modules/safe-buffer/package.json
+/Projects/untitled/node_modules/safe-buffer/README.md
+/Projects/untitled/node_modules/safer-buffer/dangerous.js
+/Projects/untitled/node_modules/safer-buffer/LICENSE
+/Projects/untitled/node_modules/safer-buffer/package.json
+/Projects/untitled/node_modules/safer-buffer/Porting-Buffer.md
+/Projects/untitled/node_modules/safer-buffer/Readme.md
+/Projects/untitled/node_modules/safer-buffer/safer.js
+/Projects/untitled/node_modules/safer-buffer/tests.js
+/Projects/untitled/node_modules/send/node_modules/encodeurl/HISTORY.md
+/Projects/untitled/node_modules/send/node_modules/encodeurl/index.js
+/Projects/untitled/node_modules/send/node_modules/encodeurl/LICENSE
+/Projects/untitled/node_modules/send/node_modules/encodeurl/package.json
+/Projects/untitled/node_modules/send/node_modules/encodeurl/README.md
+/Projects/untitled/node_modules/send/node_modules/ms/index.js
+/Projects/untitled/node_modules/send/node_modules/ms/license.md
+/Projects/untitled/node_modules/send/node_modules/ms/package.json
+/Projects/untitled/node_modules/send/node_modules/ms/readme.md
+/Projects/untitled/node_modules/send/HISTORY.md
+/Projects/untitled/node_modules/send/index.js
+/Projects/untitled/node_modules/send/LICENSE
+/Projects/untitled/node_modules/send/package.json
+/Projects/untitled/node_modules/send/README.md
+/Projects/untitled/node_modules/send/SECURITY.md
+/Projects/untitled/node_modules/serve-static/HISTORY.md
+/Projects/untitled/node_modules/serve-static/index.js
+/Projects/untitled/node_modules/serve-static/LICENSE
+/Projects/untitled/node_modules/serve-static/package.json
+/Projects/untitled/node_modules/serve-static/README.md
+/Projects/untitled/node_modules/setprototypeof/test/index.js
+/Projects/untitled/node_modules/setprototypeof/index.d.ts
+/Projects/untitled/node_modules/setprototypeof/index.js
+/Projects/untitled/node_modules/setprototypeof/LICENSE
+/Projects/untitled/node_modules/setprototypeof/package.json
+/Projects/untitled/node_modules/setprototypeof/README.md
+/Projects/untitled/node_modules/side-channel/.github/FUNDING.yml
+/Projects/untitled/node_modules/side-channel/test/index.js
+/Projects/untitled/node_modules/side-channel/.editorconfig
+/Projects/untitled/node_modules/side-channel/.eslintrc
+/Projects/untitled/node_modules/side-channel/.nycrc
+/Projects/untitled/node_modules/side-channel/CHANGELOG.md
+/Projects/untitled/node_modules/side-channel/index.d.ts
+/Projects/untitled/node_modules/side-channel/index.js
+/Projects/untitled/node_modules/side-channel/LICENSE
+/Projects/untitled/node_modules/side-channel/package.json
+/Projects/untitled/node_modules/side-channel/README.md
+/Projects/untitled/node_modules/side-channel/tsconfig.json
+/Projects/untitled/node_modules/side-channel-list/.github/FUNDING.yml
+/Projects/untitled/node_modules/side-channel-list/test/index.js
+/Projects/untitled/node_modules/side-channel-list/.editorconfig
+/Projects/untitled/node_modules/side-channel-list/.eslintrc
+/Projects/untitled/node_modules/side-channel-list/.nycrc
+/Projects/untitled/node_modules/side-channel-list/CHANGELOG.md
+/Projects/untitled/node_modules/side-channel-list/index.d.ts
+/Projects/untitled/node_modules/side-channel-list/index.js
+/Projects/untitled/node_modules/side-channel-list/LICENSE
+/Projects/untitled/node_modules/side-channel-list/list.d.ts
+/Projects/untitled/node_modules/side-channel-list/package.json
+/Projects/untitled/node_modules/side-channel-list/README.md
+/Projects/untitled/node_modules/side-channel-list/tsconfig.json
+/Projects/untitled/node_modules/side-channel-map/.github/FUNDING.yml
+/Projects/untitled/node_modules/side-channel-map/test/index.js
+/Projects/untitled/node_modules/side-channel-map/.editorconfig
+/Projects/untitled/node_modules/side-channel-map/.eslintrc
+/Projects/untitled/node_modules/side-channel-map/.nycrc
+/Projects/untitled/node_modules/side-channel-map/CHANGELOG.md
+/Projects/untitled/node_modules/side-channel-map/index.d.ts
+/Projects/untitled/node_modules/side-channel-map/index.js
+/Projects/untitled/node_modules/side-channel-map/LICENSE
+/Projects/untitled/node_modules/side-channel-map/package.json
+/Projects/untitled/node_modules/side-channel-map/README.md
+/Projects/untitled/node_modules/side-channel-map/tsconfig.json
+/Projects/untitled/node_modules/side-channel-weakmap/.github/FUNDING.yml
+/Projects/untitled/node_modules/side-channel-weakmap/test/index.js
+/Projects/untitled/node_modules/side-channel-weakmap/.editorconfig
+/Projects/untitled/node_modules/side-channel-weakmap/.eslintrc
+/Projects/untitled/node_modules/side-channel-weakmap/.nycrc
+/Projects/untitled/node_modules/side-channel-weakmap/CHANGELOG.md
+/Projects/untitled/node_modules/side-channel-weakmap/index.d.ts
+/Projects/untitled/node_modules/side-channel-weakmap/index.js
+/Projects/untitled/node_modules/side-channel-weakmap/LICENSE
+/Projects/untitled/node_modules/side-channel-weakmap/package.json
+/Projects/untitled/node_modules/side-channel-weakmap/README.md
+/Projects/untitled/node_modules/side-channel-weakmap/tsconfig.json
+/Projects/untitled/node_modules/statuses/codes.json
+/Projects/untitled/node_modules/statuses/HISTORY.md
+/Projects/untitled/node_modules/statuses/index.js
+/Projects/untitled/node_modules/statuses/LICENSE
+/Projects/untitled/node_modules/statuses/package.json
+/Projects/untitled/node_modules/statuses/README.md
+/Projects/untitled/node_modules/toidentifier/HISTORY.md
+/Projects/untitled/node_modules/toidentifier/index.js
+/Projects/untitled/node_modules/toidentifier/LICENSE
+/Projects/untitled/node_modules/toidentifier/package.json
+/Projects/untitled/node_modules/toidentifier/README.md
+/Projects/untitled/node_modules/type-is/HISTORY.md
+/Projects/untitled/node_modules/type-is/index.js
+/Projects/untitled/node_modules/type-is/LICENSE
+/Projects/untitled/node_modules/type-is/package.json
+/Projects/untitled/node_modules/type-is/README.md
+/Projects/untitled/node_modules/unpipe/HISTORY.md
+/Projects/untitled/node_modules/unpipe/index.js
+/Projects/untitled/node_modules/unpipe/LICENSE
+/Projects/untitled/node_modules/unpipe/package.json
+/Projects/untitled/node_modules/unpipe/README.md
+/Projects/untitled/node_modules/utils-merge/.npmignore
+/Projects/untitled/node_modules/utils-merge/index.js
+/Projects/untitled/node_modules/utils-merge/LICENSE
+/Projects/untitled/node_modules/utils-merge/package.json
+/Projects/untitled/node_modules/utils-merge/README.md
+/Projects/untitled/node_modules/vary/HISTORY.md
+/Projects/untitled/node_modules/vary/index.js
+/Projects/untitled/node_modules/vary/LICENSE
+/Projects/untitled/node_modules/vary/package.json
+/Projects/untitled/node_modules/vary/README.md
+/Projects/untitled/node_modules/.package-lock.json
+/Projects/untitled/package.json
+/Projects/untitled/package-lock.json
+/prv kolokvium/368003284_730501228970960_4162320931505920207_n.png
+/prv kolokvium/368083242_2080400528995831_2949677014377236556_n.png
+/prv kolokvium/385536929_360197133263617_5755032865585411741_n.png
+/prv kolokvium/385540112_772421758054256_4556027275265229068_n.png
+/prv kolokvium/385545748_1877290182685456_8726098643475837801_n.png
+/prv kolokvium/385559677_688721906706076_2104905065259074363_n.png
+/prv kolokvium/386458265_3650456505280964_889768146981413575_n.png
+/prv kolokvium/386856329_400065255865237_3883258767576510180_n.png
+/prv kolokvium/386884553_705499691542814_1325356960658825128_n.png
+/prv kolokvium/400417559_740454801321169_1382396639820401811_n.png
+/prv kolokvium/405921936_602075585378001_4690233637742293631_n.png
+/prv kolokvium/406001698_6981818658570561_2473384448259893214_n.png
+/prv kolokvium/406668519_204598289304919_1395383437818853741_n.png
+/prv kolokvium/406682196_3810681882495419_5244495619291850542_n.png
+/prv kolokvium/406713010_6878889695561580_5797905944628418868_n.png
+/prv kolokvium/406723553_3365001910312661_2182118505759257964_n.png
+/prv kolokvium/406748235_3687246188218044_1606309327638895784_n.png
+/prv kolokvium/406810108_352454670712714_1442581699618564697_n.png
+/prv kolokvium/406812775_1577878866354218_4594486954700053007_n.png
+/prv kolokvium/406822180_579787954340485_1035727028180678171_n.png
+/prv kolokvium/406835760_1411575999771660_4506061804281990051_n.png
+/prv kolokvium/406836752_616676233856364_7958745909842870198_n.png
+/prv kolokvium/406881557_1028100545150851_2131662743855623414_n.png
+/prv kolokvium/406890793_263211079803509_294399206909642261_n.png
+/prv kolokvium/406897890_374499518396020_3036349599844526011_n.png
+/prv kolokvium/406993582_1067162704603925_3930605414771394489_n.png
+/prv kolokvium/410602647_709348077820919_4875979640536032652_n.png
+/prv kolokvium/Screenshot (320).png
+/prv kolokvium/Screenshot (321).png
+/prv kolokvium/Screenshot (322).png
+/prv kolokvium/Screenshot (323).png
+/prv kolokvium/Screenshot (324).png
+/prv kolokvium/Screenshot (325).png
+/prv kolokvium/Screenshot (326).png
+/prv kolokvium/Screenshot (327).png
+/prv kolokvium/Screenshot (328).png
+/prv kolokvium/Screenshot (329).png
+/prv kolokvium/Screenshot (330).png
+/prv kolokvium/Screenshot (331).png
+/prv kolokvium/Screenshot (332).png
+/prv kolokvium/Screenshot (333).png
+/prv kolokvium/Screenshot (334).png
+/prv kolokvium/Screenshot (335).png
+/tmp/src/main/java/com/example/zad2/components/Layout.java
+/tmp/src/main/java/com/example/zad2/pages/Index.java
+/tmp/src/main/resources/com/example/zad2/components/Layout.tml
+/tmp/src/main/resources/com/example/zad2/pages/Index.tml
+/tmp/src/main/webapp/WEB-INF/app.properties
+/tmp/src/main/webapp/WEB-INF/web.xml
+/tmp/src/main/webapp/favicon.ico
+/tmp/target/classes/com/example/zad2/components/Layout.tml
+/tmp/target/classes/com/example/zad2/pages/Index.class
+/tmp/target/classes/com/example/zad2/pages/Index.tml
+/tmp/target/classes/mk/ukim/finki/predmeti/internettehnologii/vangel/vezhbi/testTap/components/Layout.class
+/tmp/target/maven-archiver/pom.properties
+/tmp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/tmp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/classes/com/example/zad2/components/Layout.tml
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/classes/com/example/zad2/pages/Index.class
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/classes/com/example/zad2/pages/Index.tml
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/classes/mk/ukim/finki/predmeti/internettehnologii/vangel/vezhbi/testTap/components/Layout.class
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/animal-sniffer-annotations-1.14.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/antlr-3.5.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/antlr-runtime-3.5.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/args4j-2.0.26.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/async-http-client-2.12.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/async-http-client-netty-utils-2.12.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/auto-common-1.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/auto-service-1.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/auto-service-annotations-1.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/base-1.0.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/beanmodel-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/byte-buddy-1.12.14.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/checker-qual-2.0.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/closure-compiler-externs-v20200504.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/closure-compiler-unshaded-v20200504.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-exec-1.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.11.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/elemental2-core-1.0.0-RC1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/error_prone_annotations-2.3.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/failsafe-3.2.4.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/FastInfoset-1.2.16.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/gmbal-4.0.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/graphql-java-19.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/gson-2.7.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/guava-25.1-jre.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/ha-api-3.1.12.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/istack-commons-runtime-3.0.8.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/j2objc-annotations-1.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.activation-1.2.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.activation-api-1.2.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-1.3.4.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.jws-api-1.1.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.xml.soap-api-1.4.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jakarta.xml.ws-api-2.3.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/java-dataloader-3.2.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-api-1.2.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.3.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/javax.inject-1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/javax.xml.soap-api-1.4.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.3.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jaxb-runtime-2.3.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jaxws-api-2.3.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jaxws-rt-2.3.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jcommander-1.82.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jeromq-0.5.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jnacl-1.0.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jsinterop-annotations-1.0.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/json-20090211.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jsr305-3.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/jtoml-2.0.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/junit-4.13.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/less4j-1.12.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/management-api-3.2.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/mimepull-1.9.11.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-buffer-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-http-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-socks-4.1.60.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-common-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-handler-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-handler-proxy-4.1.60.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-reactive-streams-2.0.4.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-resolver-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-classes-epoll-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-classes-kqueue-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-native-epoll-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-native-kqueue-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-native-unix-common-4.1.79.Final.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-api-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-context-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-exporter-common-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-exporter-logging-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-common-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-extension-autoconfigure-1.17.0-alpha.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-logs-1.17.0-alpha.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-metrics-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-sdk-trace-1.17.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/opentelemetry-semconv-1.17.0-alpha.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/pfl-asm-4.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/pfl-basic-4.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/pfl-basic-tools-4.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/pfl-dynamic-4.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/pfl-tf-4.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/pfl-tf-tools-4.0.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/plastic-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/policy-2.7.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.11.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/re2j-1.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/reactive-streams-1.0.3.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/rhino-1.7.7.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/saaj-impl-1.5.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-api-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-chrome-driver-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-chromium-driver-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v85-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v104-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v105-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v106-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v114-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v115-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-devtools-v116-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-edge-driver-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-firefox-driver-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-grid-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-http-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-ie-driver-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-java-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-json-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-leg-rc-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-manager-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-os-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-remote-driver-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-safari-driver-4.5.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/selenium-support-4.12.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/ST4-4.0.8.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/stax2-api-4.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/stax-ex-1.8.1.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/streambuffer-1.5.7.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry5-annotations-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry-core-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry-func-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry-http-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry-ioc-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry-json-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/tapestry-webresources-5.8.6.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/txw2-2.3.2.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/lib/woodstox-core-5.1.0.jar
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/app.properties
+/tmp/target/zad2-1.0-SNAPSHOT/WEB-INF/web.xml
+/tmp/target/zad2-1.0-SNAPSHOT/favicon.ico
+/tmp/target/ROOT.war
+/tmp/pom.xml
+/KMiB-Skripta_I_II_kol.pdf
+/lab1.docx
+/Правила.docx
