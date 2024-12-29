@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Technical Analysis Results</title>
+    <link rel="stylesheet" href="css.css">
+    <script>
+
+        async function fetchTickers() {
+            const response = await fetch('/tickers');
+            const tickers = await response.json();
+            const tickerSelector = document.getElementById('tickerSelector');
+            tickers.forEach(ticker => {
+                const option = document.createElement('option');
+                option.value = ticker;
+                option.textContent = ticker;
+                tickerSelector.appendChild(option);
+            });
+        }
+
+        async function fetchSignals() {
+
+            const ticker = document.getElementById('tickerSelector').value;
+            const period = document.getElementById('periodSelector').value;
+            const response = await fetch(`/signals?ticker=${ticker}&period=${period}`);
+            document.getElementById('results').innerHTML = await response.text();
+
+        }
+
+        window.onload = () => {
+            fetchTickers();
+            document.getElementById('runButton').onclick = fetchSignals;
+        };
+    </script>
+</head>
+<body>
+<header>
+    <h1>Technical Analysis Results</h1>
+</header>
+<main>
+    <div class="selectors">
+        <label for="tickerSelector">Select Ticker:</label>
+        <select id="tickerSelector">
+            <!-- Options will be dynamically added -->
+        </select>
+        <label for="periodSelector">Select Period:</label>
+        <select id="periodSelector">
+            <option value="daily">Daily</option>
+            <option value="weekly">Weekly</option>
+            <option value="monthly">Monthly</option>
+        </select>
+        <button id="runButton">Run Analysis</button>
+    </div>
+    <div id="results" class="results-container">
+    </div>
+</main>
+</body>
+</html>
